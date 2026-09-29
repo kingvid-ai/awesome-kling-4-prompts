@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **11 verified examples**, with sources reviewed through **2026-09-29**.
+The collection currently contains **21 verified examples**, with sources reviewed through **2026-09-29**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -256,6 +256,186 @@ Keep one foreground anchor, two or three readable background actions, and a unif
 **Source:** [余温](<https://x.com/gkxspace>)
 
 [Original source](<https://x.com/gkxspace/status/2078454884861374485>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#slow-motion-flood-crowd>)
+
+<a id="multi-character-film-set-reference"></a>
+
+## Film Set Scene From a Multi-Character Reference
+
+[![Kling 4.0 film-set video generated from a multi-character reference](<https://s15-kling.klingai.com/kimg/EMXN1y8qcQoGdXBsb2FkEg55bGFiLXN0dW50LXNncBpXa2xpbmctdXNlcmRvYy9maWxlLzA4ZTI3NzE2OWNlNWMwODc4MzNiZGRhZGZjZWM2ZWQ5YzM4OWFhNjY5YmEzYWNkY2RiZTI5MTFlNjM1Y2ZlMGUuanBn.webp?x-kcdn-pid=112372>)](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>)
+
+One multi-character reference guides an ensemble film-set scene while keeping the people, staging, and live-action look coherent.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Use a clear group reference that separates each person visually, then keep the requested blocking and relationships simple enough to follow in motion.
+
+**Source:** Kling AI
+
+[Original source](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#multi-character-film-set-reference>)
+
+<a id="fantasy-game-ui-reference"></a>
+
+## Fantasy Boss Battle From Game UI References
+
+[![Kling 4.0 fantasy boss battle generated from game UI references](<https://s15-kling.klingai.com/kimg/EMXN1y8qcQoGdXBsb2FkEg55bGFiLXN0dW50LXNncBpXa2xpbmctdXNlcmRvYy9maWxlL2U5MjEzOTFhZmVjMzA3MDkyOGIzNmQ0OTc0Yjc3ZjExYjZmYzI5YTY3MGVmM2I4NTVkNjk3NmVlYTAwZjcxMmIuanBn.webp?x-kcdn-pid=112372>)](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>)
+
+Four game-interface references guide a cinematic fantasy boss battle with recognizable characters, environment, and UI language.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Supply references that separately establish the hero, opponent, environment, and interface, then describe one readable action beat.
+
+**Source:** Kling AI
+
+[Original source](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#fantasy-game-ui-reference>)
+
+<a id="fashion-walk-motion-reference"></a>
+
+## Fashion Walk From a White-Model Motion Reference
+
+[![Kling 4.0 fashion walk generated with motion and image references](<https://s15-kling.klingai.com/kimg/EMXN1y8qcQoGdXBsb2FkEg55bGFiLXN0dW50LXNncBpXa2xpbmctdXNlcmRvYy9maWxlLzU5ODhiNzdiYzE4MTU1MjRkZDBkMjc5OTY5NDQxOTBiMjMwZWNjZGI3NTdkMzU0NzkyZDE5Y2Y2OTRjODQzMGQuanBn.webp?x-kcdn-pid=112372>)](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>)
+
+A white-model motion video and reference images transfer a runway-style walk into a photoreal fashion scene.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Choose a motion reference with an unobstructed silhouette and use still images to define wardrobe, subject, and location separately.
+
+**Source:** Kling AI
+
+[Original source](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#fashion-walk-motion-reference>)
+
+<a id="period-drama-element-reference"></a>
+
+## Period Drama With Referenced Character Elements
+
+[![Kling 4.0 period drama generated with referenced character elements](<https://s15-kling.klingai.com/kimg/EMXN1y8qcQoGdXBsb2FkEg55bGFiLXN0dW50LXNncBpXa2xpbmctdXNlcmRvYy9maWxlL2RkZGRkMmI0Yzg3MmMzMzYzYjRlN2FjZWNiN2VhNTA5MDFhMTk1ZDRhN2FhNWEyMDNhNmRlZjYyMzlmMWYwNTIuanBn.webp?x-kcdn-pid=112372>)](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>)
+
+A reference video and three character images guide a dialogue-driven period scene while the surrounding composition stays stable.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Use distinct, well-lit character references and identify each role consistently when adapting a source scene with multiple people.
+
+**Source:** Kling AI
+
+[Original source](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#period-drama-element-reference>)
+
+<a id="storefront-multi-character-replacement"></a>
+
+## Storefront Scene With Multi-Character Replacement
+
+[![Kling 4.0 storefront video with multiple replaced characters](<https://s15-kling.klingai.com/kimg/EMXN1y8qcQoGdXBsb2FkEg55bGFiLXN0dW50LXNncBpXa2xpbmctdXNlcmRvYy9maWxlLzdhZDdiNjJjNGYwYTQyYzJjZjUxYmEwZTExYTVlYTliZjc3OTA1ODgyZWY5MTQzMjM5ODZlMDRmNjI1NzY2MDQuanBn.webp?x-kcdn-pid=112372>)](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>)
+
+Three character references replace multiple people in a source video while preserving the storefront framing and scene structure.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Provide one clean image per replacement subject and preserve the source video's staging when character identity is the main change.
+
+**Source:** Kling AI
+
+[Original source](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#storefront-multi-character-replacement>)
+
+<a id="live-band-element-removal"></a>
+
+## Live Band Scene With Element Removal
+
+[![Kling 4.0 live band scene after an element-removal edit](<https://s15-kling.klingai.com/kimg/EMXN1y8qcQoGdXBsb2FkEg55bGFiLXN0dW50LXNncBpXa2xpbmctdXNlcmRvYy9maWxlLzY4ODY4MmVlYTE1NjYxOTI3NDhjN2E5Mjk5NDZjMDNmNTRlYzFmNmEwOTI0ZGEwZWYyYTI3N2JmNmYxNDhjNjYuanBn.webp?x-kcdn-pid=112372>)](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>)
+
+A targeted video edit removes an element from a busy outdoor band performance while retaining the crowd and camera composition.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Keep the edit request narrowly scoped, identify the removable element clearly, and ask to preserve camera motion, lighting, and surrounding people.
+
+**Source:** Kling AI
+
+[Original source](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#live-band-element-removal>)
+
+<a id="snowy-porch-style-modification"></a>
+
+## Snowy Porch Scene With Style Modification
+
+[![Kling 4.0 vertical porch video after a winter style modification](<https://s15-kling.klingai.com/kimg/EMXN1y8qcQoGdXBsb2FkEg55bGFiLXN0dW50LXNncBpXa2xpbmctdXNlcmRvYy9maWxlLzJjNDE1MGNlMzgxMDczYTk4YTMyZGI5Y2ViYjdiM2NlMzE0NzUzMDNmNTFlYjdmMWM3NzRiNDE4YmUwMzRmMTUuanBn.webp?x-kcdn-pid=112372>)](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>)
+
+A source video is restyled as a wintry porch scene while its vertical composition and underlying action remain recognizable.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Name the desired environment and visual treatment, then specify which motion, framing, and subject details from the reference video must stay unchanged.
+
+**Source:** Kling AI
+
+[Original source](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#snowy-porch-style-modification>)
+
+<a id="ugc-fashion-product-promotion"></a>
+
+## UGC Fashion Product Promotion
+
+[![Kling 4.0 vertical UGC fashion promotion](<https://s15-kling.klingai.com/kimg/EMXN1y8qcQoGdXBsb2FkEg55bGFiLXN0dW50LXNncBpXa2xpbmctdXNlcmRvYy9maWxlL2I3ODdlMjAxZWE4NWZhM2ViMjBiNTIyNGVhZTFiZDY1ZTdmNzdlMzhmZmU5ZDE2ODVhYzEzNmNkOTY4ZDIwNWYuanBn.webp?x-kcdn-pid=112372>)](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>)
+
+A single product reference becomes a vertical creator-style fashion promotion designed around direct presentation and social framing.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Use a clean product reference and describe how the presenter handles, wears, or demonstrates it in a short vertical-video sequence.
+
+**Source:** Kling AI
+
+[Original source](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#ugc-fashion-product-promotion>)
+
+<a id="glitch-art-video-style"></a>
+
+## Glitch-Art Video Style
+
+[![Kling 4.0 glitch-art video example](<https://s15-kling.klingai.com/kimg/EMXN1y8qcQoGdXBsb2FkEg55bGFiLXN0dW50LXNncBpXa2xpbmctdXNlcmRvYy9maWxlLzFhNjlhMDkxOGNhM2M0MDdlZDE1YWFhMTk4M2I2ZGU1M2MyMTYyN2RhZjNiYjU1YTE2ZDUyYTAzODBkYjM4NmQuanBn.webp?x-kcdn-pid=112372>)](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>)
+
+A stylized example demonstrates Kling 4.0's glitch-art rendering with deliberate digital distortion and graphic color treatment.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Define the subject first, then add glitch intensity, color palette, texture, transition rhythm, and any details that should remain legible.
+
+**Source:** Kling AI
+
+[Original source](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#glitch-art-video-style>)
+
+<a id="flash-coastal-character-scene"></a>
+
+## Kling 4.0 Flash Coastal Character Scene
+
+[![Kling 4.0 Flash video of two characters in a coastal landscape](<https://s15-kling.klingai.com/kimg/EMXN1y8qcQoGdXBsb2FkEg55bGFiLXN0dW50LXNncBpXa2xpbmctdXNlcmRvYy9maWxlLzhkNDJiNzQwNTM4YjRmZDQ2OTY2ZmRkZDg5ZjhhMDhmN2MzZmM2Y2U0MjhmMTVlZDZmYzAzNjNjMzI2MDFkMGUuanBn.webp?x-kcdn-pid=112372>)](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>)
+
+Three reference images guide a two-character outdoor scene in the Kling 4.0 Flash showcase, preserving people and setting cues.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Separate character and environment references, then describe the interaction and camera framing in a compact prompt suited to a shorter Flash workflow.
+
+**Source:** Kling AI
+
+[Original source](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-coastal-character-scene>)
 
 ## Attribution and corrections
 
