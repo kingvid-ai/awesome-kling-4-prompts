@@ -5,7 +5,25 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **10 verified examples**, with sources reviewed through **2026-09-29**.
+The collection currently contains **11 verified examples**, with sources reviewed through **2026-09-29**.
+
+<a id="long-form-dragon-attack"></a>
+
+## Long-Form Dragon Attack on a Burning Kingdom
+
+[![Kling 4.0 video preview of a dragon overlooking a burning kingdom](<https://s15-kling.klingai.com/kimg/EMXN1y8qcQoGdXBsb2FkEg55bGFiLXN0dW50LXNncBpXa2xpbmctdXNlcmRvYy9maWxlLzQzNTU0ZDA0OTA5OTgzNDZmZDk5NDg3YTFjNWM3YTI3ZmM0NWJjZmRmMWRkMzU3ZTJiZTI2MjA0NzhmOTI0YTYuanBn.webp?x-kcdn-pid=112372>)](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>)
+
+A 28-second cinematic sequence follows a dragon from a cliffside roar into flight and a sustained fire attack over a burning kingdom.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Use distinct visual beats and a clear escalation across the full duration. Keep the subject, environment, lighting, and direction of motion consistent between beats.
+
+**Source:** Kling AI
+
+[Original source](<https://kling.ai/release-note/release-notes/Kling_4?type=dialog>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#long-form-dragon-attack>)
 
 <a id="natural-vlogger-introduction"></a>
 
