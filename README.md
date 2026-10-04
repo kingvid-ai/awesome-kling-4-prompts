@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **28 verified examples**, with sources reviewed through **2026-10-02**.
+The collection currently contains **29 verified examples**, with sources reviewed through **2026-10-04**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -1330,6 +1330,30 @@ Prepare a clean character sheet and describe a compact teaser sequence. Keep cos
 **Source:** [WTR](<https://x.com/wtry1102>)
 
 [Original source](<https://x.com/wtry1102/status/2104893735272415641>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#anime-vtuber-character-sheet-teaser>)
+
+<a id="nighttime-cat-continuous-handheld-chase"></a>
+
+## Nighttime Cat Chase in One Handheld Take
+
+[![A cat beginning a nighttime handheld chase](<https://pbs.twimg.com/amplify_video_thumb/2104595110025658368/img/4BUI1rEfXshGtg_k.jpg>)](<https://x.com/umesh_ai/status/2104595267794460949>)
+
+A restless cat races through a sleeping home and neighborhood in a fast handheld chase, testing continuous camera movement across locations.
+
+**Model:** Kling 4.0 Flash
+
+### Original prompt · `en`
+
+```text
+An amateur handheld recording in third-person perspective rapidly follows a cat through its nighttime adventures in one continuous shot, with no cuts, no stopping, and no pause. The sequence feels like fast-forward, showing all the curious, mischievous, funny, and chaotic things a cat might do while the town, house, garden, and everything around it are half-asleep.The cat races through about ten places a cat would naturally explore at night, each one flowing into the next in a single continuous chase: a quiet bedroom, a dim hallway, a kitchen, a living room, a backyard garden, a fence line, a garage, a rooftop, a tree, and a sleepy street or alley. The camera is shaky and imperfect, always struggling to keep up as it follows close behind. In every location, the cat causes some kind of chaos. In the bedroom it jumps onto furniture and disturbs sleeping people. In the hallway it sends small objects tumbling. In the kitchen it knocks items off the counter. In the living room it darts across shelves and tips things over. In the garden it rustles plants, digs, or startles birds. On the fence it rattles loose objects. In the garage it weaves through clutter and causes things to wobble or fall. On the rooftop it skids across surfaces and startles other animals. In the tree it shakes branches and scatters leaves. In the street or alley it darts through trash, shadows, and unexpected little messes, always leaving brief chaos behind before sprinting onward.The cat behaves like a restless, curious nighttime troublemaker: climbing, leaping, squeezing through gaps, chasing tiny movements, staring at strange things, swatting objects, knocking things over, and vanishing into corners before bursting back out again. Every scene should contain a clear action, reaction, or small disaster caused by the cat.Everything around it feels sleepy and still, with dark houses, quiet gardens, dim windows, silent rooftops, and empty streets. The contrast is that the cat is pure energy, moving so quickly that the world smears into motion blur and fragmented glimpses of chaos. The overall feeling is funny, lively, mischievous, and cinematic, like a whole secret night of cat behavior compressed into one rapid continuous chase.
+```
+
+### How to adapt it
+
+Replace the cat with another small, fast-moving subject and define a connected route through your own locations. Specify a trailing third-person handheld camera and uninterrupted movement, then give each location one clear action and reaction. Start with fewer connected locations and inspect spatial transitions before expanding the chase.
+
+**Source:** [Umesh](<https://x.com/umesh_ai>)
+
+[Original source](<https://x.com/umesh_ai/status/2104595267794460949>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#nighttime-cat-continuous-handheld-chase>)
 
 ## Attribution and corrections
 
