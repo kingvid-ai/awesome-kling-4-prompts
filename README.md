@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **29 verified examples**, with sources reviewed through **2026-10-04**.
+The collection currently contains **34 verified examples**, with sources reviewed through **2026-10-05**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -1354,6 +1354,873 @@ Replace the cat with another small, fast-moving subject and define a connected r
 **Source:** [Umesh](<https://x.com/umesh_ai>)
 
 [Original source](<https://x.com/umesh_ai/status/2104595267794460949>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#nighttime-cat-continuous-handheld-chase>)
+
+<a id="storm-cloud-bull-six-shot-camera-test"></a>
+
+## Storm Cloud Bull Across Six Camera Angles
+
+[![Storm Cloud Bull Across Six Camera Angles](<https://pbs.twimg.com/amplify_video_thumb/2106662937024741376/img/4rcvUy9Zx1AtSIgL.jpg>)](<https://x.com/7A7PIcreates/status/2106662981517856989>)
+
+A giant cloud-textured bull charges across a salt desert, paired with a six-shot prompt for low angles, side tracking and aerial views.
+
+**Model:** Kling 4.0 Flash
+
+### Original prompt · `en`
+
+```text
+The enormous bull made entirely from dense white storm clouds charges continuously at full speed across the white salt desert. Small electric-blue lightning bolts pulse naturally inside its cloud body. Hard cinematic cuts, same bull, same environment, continuous forward motion. 
+SHOT 1: 0–3s
+Extreme low frontal 24 mm shot. The cloud bull charges directly toward the camera, enormous horns framing the sky. One front leg rises toward the lens while blue lightning flashes subtly through its chest. 
+SHOT 2: 3–6s
+Fast side-tracking shot. The camera races parallel to the bull. Powerful natural galloping motion as turbulent clouds roll through its body. Vapor streams backward from its shoulders and legs while thin lightning branches travel from neck to torso. 
+SHOT 3: 6–9s
+Extreme close-up tracking beside the bull's head. Dense clouds sculpt its eyes, muzzle, and horns. A small lightning pulse travels beneath the cloud surface and briefly illuminates its face from within. Vapor whips across the lens. 
+SHOT 4: 9–12s
+Top-down aerial tracking shot. The enormous white bull races across the salt flat, leaving a turbulent cloud trail behind it. Tiny blue electrical flashes flicker through the moving cloud mass. 
+SHOT 5: 12–15s
+Ground-level hoof shot. A gigantic vapor hoof crashes beside the camera and explodes into rolling white clouds across the salt, then reforms instantly as the bull continues charging.
+SHOT 6: 15–20s
+Extreme low frontal shot. The bull accelerates directly toward the camera. Its cloud body grows increasingly turbulent, lightning rapidly branching through its chest and shoulders. At the final instant, the colossal bull leaps over the camera as white storm clouds engulf the frame. The camera tilts upward to follow it into the cobalt-blue sky. Ultra-photorealistic cinematic fashion film, physically believable volumetric clouds, natural bull locomotion, turbulent vapor dynamics, subtle internal electric-blue lightning, brutal midday sunlight, and monumental scale. No fur, no solid bull, no cartoon clouds, no magical glow, and no giant lightning strikes. Continuous fast motion throughout.
+```
+
+### How to adapt it
+
+Keep one subject, one environment and one continuous action, then change only the camera angle at each timed cut. Replace the bull and cloud material with your own subject and texture, keeping its silhouette and direction consistent across shots.
+
+**Source:** [madefromwords](<https://x.com/7A7PIcreates>)
+
+[Original source](<https://x.com/7A7PIcreates/status/2106662981517856989>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#storm-cloud-bull-six-shot-camera-test>)
+
+<a id="korea-travel-fashion-character-continuity"></a>
+
+## Korea Travel Film with a Consistent Traveler
+
+[![Korea Travel Film with a Consistent Traveler](<https://pbs.twimg.com/amplify_video_thumb/2105901540355776512/img/R9SlK7d0Ox7aw0yv.jpg>)](<https://x.com/Diplomeme/status/2105902453770342795>)
+
+A red-jacketed traveler moves from a train through Korean architecture, mountain scenery and a nighttime skyline in a multi-shot film.
+
+**Model:** Kling 4.0 Flash
+
+### Original prompt · `en`
+
+```text
+KOREA PREMIUM TRAVEL / FASHION FILM
+
+20 seconds | 16:9 | Kling 4.0 Flash | MULTISHOT
+Premium travel music video × fashion travel film
+2024–2026 commercial-grade live-action realism
+24fps | natural motion blur | cinematic shutter
+
+CORE CONCEPT
+
+A young international traveler experiences South Korea through one continuous energetic journey: high-speed rail, Seoul street life, Korean food culture, traditional architecture, coastal landscapes and modern nighttime Seoul.
+
+The film feels like a premium Korean tourism campaign combined with an elite fashion travel film.
+
+The traveler must always physically exist inside the environment. Locations must feel photographed on real locations, with authentic pedestrians, commuters, vendors, vehicles, weather, reflections and environmental imperfections.
+
+The edit is driven by music, but every movement remains physically believable.
+
+CHARACTER LOCK
+
+ONE TRAVELER throughout the entire film.
+
+Young adult international traveler.
+
+Wardrobe:
+premium red Adidas travel jacket,
+neutral trousers,
+clean contemporary sneakers,
+compact crossbody bag.
+
+Maintain exactly the same:
+face,
+facial proportions,
+hair,
+skin texture,
+body proportions,
+jacket,
+trousers,
+sneakers,
+bag,
+accessories.
+
+Do not redesign or change the wardrobe between shots.
+
+Only use Adidas branding already visible on the clothing.
+Do not invent additional Adidas logos, storefronts, advertisements or products.
+
+JOURNEY
+
+Seoul → high-speed railway → traditional Korean neighborhood → Korean food street → mountain landscape → coastal road → Seoul at night.
+
+The locations should feel connected as one real journey rather than unrelated travel images.
+
+────────────────────────
+
+00:00–02.5 — TRAIN WINDOW / HOOK
+
+85mm intimate close-up.
+
+The traveler sits beside a high-speed train window.
+
+Warm morning sunlight falls naturally across one side of the face.
+
+Reflections of the Korean countryside slide continuously across the glass.
+
+The traveler watches the landscape.
+
+On the first musical beat, they slowly turn toward camera.
+
+Subtle breathing.
+Natural eye movement.
+Small facial reaction.
+
+Camera remains close and observational.
+
+Do not beautify the face.
+Preserve realistic pores, hair and skin texture.
+
+────────────────────────
+
+02.5–05.0 — DEPARTURE
+
+24mm wide platform shot.
+
+The traveler walks alongside a departing high-speed train.
+
+The train begins accelerating behind them.
+
+Wind pressure from the moving train pushes naturally against the red jacket and hair.
+
+Camera tracks laterally at walking speed.
+
+The traveler remains grounded on the platform.
+
+Real commuters move independently in the background.
+
+Cut on the movement of the train.
+
+────────────────────────
+
+05.0–07.5 — SEOUL ARRIVAL
+
+35mm handheld follow shot.
+
+The traveler exits a busy Seoul station into the street.
+
+Camera follows slightly behind and to one side.
+
+Do not perfectly center the subject.
+
+Pedestrians naturally cross between camera and traveler.
+
+Taxis, buses, bicycles and scooters move through the background.
+
+Small autofocus adjustment as a pedestrian briefly passes close to lens.
+
+Natural exposure adaptation from station interior to daylight.
+
+────────────────────────
+
+07.5–10.0 — KOREAN STREET FOOD
+
+50mm observational handheld shot.
+
+The traveler moves through a lively Korean food street.
+
+A vendor prepares steaming Korean street food beside them.
+
+The traveler slows down.
+
+Looks toward the cooking.
+
+Steam rises naturally and briefly crosses the lens.
+
+The vendor hands the traveler a freshly prepared dish.
+
+The traveler tastes it and gives a subtle genuine reaction.
+
+Background remains active:
+customers,
+vendors,
+passing pedestrians,
+street signage,
+cooking smoke,
+ambient movement.
+
+No staged crowd behavior.
+
+────────────────────────
+
+10.0–12.5 — TRADITIONAL KOREA
+
+24mm wide tracking shot.
+
+The traveler enters a traditional Korean neighborhood.
+
+Wooden hanok architecture.
+Stone pathway.
+Traditional tiled roofs.
+Small courtyard.
+Natural pedestrians.
+
+Camera follows the traveler across a small stone bridge.
+
+Late-afternoon sunlight enters between buildings.
+
+A pedestrian crosses the foreground, briefly obscuring the traveler.
+
+Use the obstruction as a natural transition.
+
+No artificial transition effect.
+
+────────────────────────
+
+12.5–15.0 — HUMAN FOOD MOMENT
+
+50mm close-up.
+
+A local vendor places freshly prepared Korean food in front of the traveler.
+
+Traveler picks up the food.
+
+Takes one bite.
+
+Subtle natural reaction.
+
+Shallow depth of field.
+
+Background remains visibly alive but softly defocused.
+
+Hands, food, steam and facial movement must remain anatomically correct.
+
+────────────────────────
+
+15.0–17.5 — MOUNTAIN ASCENT
+
+24mm deep-focus shot.
+
+The traveler walks upward along a long mountain staircase surrounded by dense Korean vegetation.
+
+Camera follows from behind.
+
+Footsteps have realistic weight.
+
+Clothing responds naturally to movement.
+
+Wind moves leaves and fabric independently.
+
+As the traveler reaches the upper section of the stairs, the camera gradually reveals a vast Korean mountain valley beyond.
+
+Cool atmospheric mist sits between distant mountains.
+
+The reveal happens through physical camera movement, not a digital zoom.
+
+────────────────────────
+
+17.5–20.0 — FASHION / LANDSCAPE
+
+50mm side-tracking shot.
+
+Golden-hour sunlight illuminates the traveler as they walk along a mountain viewpoint.
+
+Red jacket contrasts naturally against deep green vegetation.
+
+Warm rim light catches hair and shoulders.
+
+Wind moves the jacket realistically.
+
+Camera maintains approximately parallel movement.
+
+Natural lens flare from the low sun.
+
+No artificial beauty lighting.
+
+────────────────────────
+
+20.0–22.5 — SCALE
+
+24mm extremely wide environmental composition.
+
+The traveler becomes small within an enormous Korean mountain landscape.
+
+Distant peaks disappear into atmospheric haze.
+
+Clouds drift slowly through the valley.
+
+Trees move subtly in the wind.
+
+Camera remains at a believable elevated viewpoint.
+
+No impossible drone movement.
+
+No exaggerated miniature effect.
+
+The landscape must retain realistic atmospheric depth.
+
+────────────────────────
+
+22.5–25.0 — BLUE HOUR
+
+50mm handheld street shot.
+
+Transition naturally into blue hour.
+
+The traveler enters a lively Korean nighttime food district.
+
+Warm restaurant lights and signs contrast with cool ambient blue light.
+
+Scooters pass.
+
+Pedestrians move independently.
+
+Steam rises from food stalls.
+
+The traveler walks through the crowd.
+
+Camera moves with them at human walking speed.
+
+Music intensity increases.
+
+────────────────────────
+
+25.0–27.5 — MODERN SEOUL
+
+35mm tracking shot.
+
+The traveler walks beside a modern Seoul riverside district.
+
+City lights reflect naturally across the water.
+
+Modern towers illuminate in the background.
+
+A boat moves through the river and creates small expanding ripples.
+
+Camera tracks backward while maintaining the traveler's movement.
+
+Natural pedestrians occasionally enter foreground.
+
+No floating camera.
+
+────────────────────────
+
+27.5–30.0 — FINAL REVEAL
+
+24mm wide composition from behind.
+
+The traveler reaches the riverside viewpoint and stops.
+
+They look across the illuminated Seoul skyline.
+
+Camera slowly tracks backward, gradually revealing more of the city.
+
+Do not fly upward.
+
+The traveler remains in the foreground while the skyline expands behind them.
+
+River reflections move naturally.
+
+The traveler takes one final step forward as the music reaches its final beat.
+
+Hold the composition briefly.
+
+CUT TO BLACK.
+
+────────────────────────
+
+CAMERA LANGUAGE
+
+Use physically motivated cinema-camera movement.
+
+24mm:
+landscapes,
+architecture,
+environmental scale,
+wide establishing shots.
+
+35mm:
+street movement,
+tracking,
+travel sequences.
+
+50mm:
+human moments,
+food,
+fashion,
+street observation.
+
+85mm:
+intimate facial close-up.
+
+Camera movement should have real physical inertia.
+
+Use:
+controlled handheld,
+lateral tracking,
+walking follow shots,
+slow push-ins,
+natural camera repositioning.
+
+Avoid:
+floating cameras,
+impossible orbital movement,
+instant camera teleportation,
+unmotivated drone shots,
+digital zooms,
+excessive whip transitions.
+
+Allow subtle imperfections:
+minor framing variation,
+natural autofocus adjustment,
+foreground obstruction,
+small handheld vibration,
+realistic exposure adaptation.
+
+────────────────────────
+
+LIGHTING
+
+Lighting must originate from the environment.
+
+Morning sunlight.
+Soft daylight.
+Warm late-afternoon sunlight.
+Golden-hour rim light.
+Cool mountain atmosphere.
+Blue-hour ambient light.
+Warm Korean street lighting.
+Nighttime city illumination.
+
+Maintain physically consistent light direction and exposure within each shot.
+
+────────────────────────
+
+PHYSICAL REALISM
+
+Prioritize realistic physical behavior.
+
+Hair responds to wind and movement.
+
+Clothing responds to walking speed and air resistance.
+
+Steam rises and disperses naturally.
+
+Water produces realistic reflections and ripples.
+
+Pedestrians move independently.
+
+Vehicles obey realistic road movement.
+
+Train movement produces believable wind displacement.
+
+Footsteps have realistic weight.
+
+Objects remain grounded.
+
+No floating objects.
+No impossible reflections.
+No synchronized crowd movement.
+
+────────────────────────
+
+IMAGE / COLOR
+
+Premium Korean tourism campaign × contemporary fashion travel film.
+
+Photorealistic live-action cinematography.
+
+Natural skin texture.
+Real fabric texture.
+Real environmental materials.
+Subtle cinematic grain.
+Mild highlight halation.
+Controlled contrast.
+Natural blacks.
+Realistic dynamic range.
+
+Color progression:
+
+DAYLIGHT
+natural greens + clean neutral tones
+
+GOLDEN HOUR
+warm sunlight + rich natural greens
+
+BLUE HOUR
+cool ambient atmosphere + warm practical lights
+
+NIGHT
+deep cool environment + controlled warm highlights
+
+The red Adidas jacket remains visually distinctive without becoming artificially saturated.
+
+Avoid excessive teal-orange grading.
+
+Avoid HDR appearance.
+
+────────────────────────
+
+MOTION / FRAME RATE
+
+24fps cinematic motion.
+
+Natural motion blur.
+
+No 60fps or soap-opera appearance.
+
+Movement must feel captured by a real cinema camera.
+
+Avoid excessive slow motion.
+
+Only use speed changes when physically motivated by the music and action.
+
+────────────────────────
+
+AUDIO
+
+Premium contemporary travel soundtrack with subtle Korean-inspired textures.
+
+Music controls the edit rhythm.
+
+Maintain authentic location sound beneath the music:
+
+high-speed train ambience,
+station announcements,
+footsteps,
+street traffic,
+Korean conversation,
+food preparation,
+oil sizzling,
+crowd ambience,
+wind,
+birds,
+river ambience,
+distant city noise.
+
+Allow environmental sound to briefly become prominent during intimate moments.
+
+Synchronize major cuts and movement accents with the soundtrack.
+
+────────────────────────
+
+EDITING
+
+MULTISHOT COMMERCIAL EDIT.
+
+Every cut must be motivated by:
+
+movement,
+direction,
+shape,
+reflection,
+steam,
+light,
+architecture,
+or musical rhythm.
+
+Use clean match cuts.
+
+Use environmental elements as transitions.
+
+Examples:
+
+train movement → city movement
+
+steam → atmospheric mist
+
+bridge movement → mountain staircase
+
+warm street lights → nighttime skyline
+
+Avoid:
+generic AI transitions,
+digital morphing,
+random zooms,
+excessive whip pans,
+glitch effects,
+particle transitions,
+unmotivated speed ramps.
+
+────────────────────────
+
+CONTINUITY
+
+The same traveler must remain recognizable in every shot.
+
+Maintain:
+
+same face,
+same hairstyle,
+same body proportions,
+same red Adidas jacket,
+same trousers,
+same sneakers,
+same crossbody bag.
+
+Maintain believable progression:
+
+daylight → golden hour → blue hour → night.
+
+Locations must feel geographically and narratively connected.
+
+Do not introduce duplicate versions of the traveler.
+
+Do not change clothing.
+
+Do not randomly change architecture.
+
+Do not introduce unexplained objects.
+
+────────────────────────
+
+NEGATIVE CONSTRAINTS
+
+No CGI appearance.
+No plastic skin.
+No beauty-filter smoothing.
+No anatomical deformation.
+No extra fingers.
+No duplicated people.
+No duplicated vehicles.
+No warped architecture.
+No melting objects.
+No floating objects.
+No impossible reflections.
+No artificial crowd synchronization.
+No fake depth-of-field artifacts.
+No excessive HDR.
+No oversaturated colors.
+No random logos.
+No invented Adidas branding.
+No watermarks.
+No subtitles.
+No UI elements.
+No text unless explicitly requested.
+
+FINAL DIRECTIVE
+
+The result must look like genuine footage captured during a real luxury travel campaign in South Korea by an elite commercial film crew.
+
+The realism comes from:
+
+human behavior,
+physical movement,
+real locations,
+natural light,
+camera inertia,
+environmental reactions,
+authentic imperfections,
+and continuity.
+
+Commercial polish should come from cinematography, editing, sound and art direction — never from an artificial CGI aesthetic.
+```
+
+### How to adapt it
+
+Define one traveler and a fixed outfit, then select a few connected destinations. Use foreground obstructions, steam or matching movement to motivate cuts. Reconcile the shot timings with your chosen clip duration before adapting the itinerary.
+
+**Source:** [ᴍᴜʀᴘʜʏ](<https://x.com/Diplomeme>)
+
+[Original source](<https://x.com/Diplomeme/status/2105902453770342795>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#korea-travel-fashion-character-continuity>)
+
+<a id="reference-wizard-mischievous-flame-animation"></a>
+
+## Reference Wizard and a Mischievous Magic Flame
+
+[![Reference Wizard and a Mischievous Magic Flame](<https://pbs.twimg.com/amplify_video_thumb/2105658611905216512/img/E9IqsKSQn4Ia1Gdl.jpg>)](<https://x.com/imhealmachine/status/2105659013572800732>)
+
+A reference-led wizard animation uses five timed shots to turn a runaway flame into a playful meadow transformation.
+
+**Model:** Kling 4.0 Flash
+
+### Original prompt · `en`
+
+```text
+20-second cinematic animated short, 16:9 widescreen.
+
+Use the provided reference image as the strict character and visual style reference.
+Maintain the exact same young female wizard character throughout the entire video: long pastel pink hair, huge blue eyes, freckles, oversized pointed blue-and-yellow wizard hat, bright blue and yellow wizard outfit, oversized blue boots, golden crescent-shaped magic staff, and the distinctive floating cyan-and-coral magical flame.
+
+Preserve the original stylized cute 3D character proportions, smooth toy-like materials, soft rounded shapes, colorful pastel palette, clean high-quality 3D animation aesthetic.
+
+SETTING:
+A whimsical open meadow at golden hour, covered with tiny colorful flowers, soft rolling hills in the distance, dreamy clouds, gentle warm sunlight. Magical fantasy atmosphere.
+
+SHOT 01 [0-3s]
+Medium low-angle shot.
+The little wizard stands alone in the meadow, looking extremely serious and determined.
+She grips her tall staff with both hands and carefully raises it.
+A tiny cyan magical flame flickers into existence above the golden crescent tip.
+Her eyes widen.
+She looks surprised, then gives a tiny proud smile as if thinking, “I did it!”
+
+Slow cinematic push-in toward her face and the flame.
+Hair and cape gently move in the breeze.
+
+SHOT 02 [3-6s]
+Close-up on the magical flame.
+The flame suddenly develops two tiny glowing eyes.
+
+It looks at the wizard.
+
+The wizard freezes.
+
+The little flame mischievously hops out of the staff and flies away.
+
+Quick whip pan following the escaping flame.
+
+The wizard's expression changes from pride to complete confusion.
+She immediately runs after it, awkwardly carrying the oversized staff.
+
+SHOT 03 [6-11s]
+Fast comedic tracking shot across the meadow.
+
+The tiny flame spirit zigzags rapidly between flowers while the wizard chases it.
+
+Her oversized hat bounces wildly.
+Her cape flaps behind her.
+She almost trips over her own large boots, regains balance, then continues running.
+
+The flame repeatedly grows slightly larger each time it jumps.
+
+Dynamic side tracking camera, energetic but readable movement, playful physical comedy.
+
+SHOT 04 [11-16s]
+The wizard suddenly stops.
+
+Camera swings around her to reveal that the tiny flame has transformed into an enormous floating magical fire spirit towering above her.
+
+Huge swirling cyan core surrounded by coral-orange flames.
+
+The wizard slowly looks upward.
+
+Her eyes become huge.
+
+One beat of silence.
+
+She nervously raises her staff.
+
+The giant flame rushes toward her.
+
+She closes her eyes and desperately swings the staff forward.
+
+A brilliant magical collision erupts.
+
+Strong cinematic camera push, magical particles, wind pushing her hair and cape backward.
+
+SHOT 05 [16-20s]
+Instead of an explosion, the enormous flame bursts into hundreds of glowing pastel stars, sparkling petals, and tiny magical flowers.
+
+Wide cinematic shot.
+
+The entire meadow instantly blooms with colorful flowers.
+
+The wizard is sitting on the ground in the middle of the flowers, slightly dazed, her oversized hat tilted sideways.
+
+A tiny version of the flame spirit floats back toward her.
+
+It gently lands on the tip of her staff.
+
+She stares at it suspiciously for a moment.
+
+The flame makes one tiny playful bounce.
+
+The wizard sighs, then gives a small amused smile.
+
+Slow camera pull-back revealing the magical flower-covered meadow.
+
+End on a warm whimsical fantasy tableau.
+
+ANIMATION:
+High-quality expressive stylized 3D character animation.
+Clear facial acting and readable poses.
+Cute exaggerated physical comedy.
+Smooth character motion with subtle squash and stretch.
+Strong anticipation and reaction poses.
+Natural secondary motion in long hair, cape, sleeves and oversized hat.
+Keep the character's face, costume, colors, proportions and staff design consistent in every shot.
+
+CAMERA:
+cinematic animated-film camera language,
+clear shot transitions,
+smooth dolly and tracking movement,
+brief whip pan during the chase,
+dynamic perspective during the magical climax,
+no excessive camera shake.
+
+LIGHTING:
+soft golden-hour sunlight,
+pastel fantasy lighting,
+soft volumetric glow from magic,
+cyan magical light illuminating the character's face,
+warm rim light,
+clean colorful highlights.
+
+IMPORTANT:
+No dialogue.
+No text.
+No subtitles.
+No additional human characters.
+Do not redesign the wizard.
+Do not change her outfit or hairstyle.
+Do not change the staff design.
+Keep the same stylized 3D rendering style as the reference image.
+Avoid realistic human proportions.
+Avoid photorealism.
+Avoid horror imagery.
+Avoid distorted hands or facial features.
+```
+
+### How to adapt it
+
+Start with a clear character reference and lock its costume, proportions and rendering style. Give each timed shot one action and a visible reaction, then build a chase and payoff around a small companion or prop.
+
+**Source:** [imhealingmachine](<https://x.com/imhealmachine>)
+
+[Original source](<https://x.com/imhealmachine/status/2105659013572800732>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#reference-wizard-mischievous-flame-animation>)
+
+<a id="hat-thief-cat-low-camera-continuous-reveal"></a>
+
+## Hat Thief Cat with a Continuous Basket Reveal
+
+[![Hat Thief Cat with a Continuous Basket Reveal](<https://pbs.twimg.com/amplify_video_thumb/2106289577518563328/img/7eC38Lzi40Fqdg2w.jpg>)](<https://x.com/umesh_ai/status/2106289723673313748>)
+
+A low camera follows a cat carrying a stolen hat through a veranda, then rises to reveal the kittens and a warm human reaction.
+
+**Model:** Kling 4.0 Flash
+
+### Original prompt · `en`
+
+```text
+Create a 15-second photorealistic, heartwarming animal story in one continuous shot. Use a close-focusing 18mm wide-angle perspective and a fast, low, animal-height camera that rises into intimate human reactions without cutting. Maintain natural animal movement, realistic fur, believable object contact, and readable action.Set the sequence on one sheltered garden veranda during a bright, chilly afternoon. A bench, several outdoor chairs, and a wicker cat basket occupy a compact connected space. Sunlight reaches the veranda through climbing plants. The basket already contains a soft blanket and exactly two healthy kittens.The main animal is one orange-and-white mother cat. The human character is a girl in a plum-colored coat. The important prop is one oversized blue knitted winter hat with a large cream pompom. The mother cat carries the hat by its soft edge. She is not distressed, aggressive, or behaving like a human.The first kitten becomes visible before the second. The second kitten is physically present throughout but initially hidden behind the basket rim and its sibling. The final surprise is its appearance beside the first kitten.0 to 2 seconds: Start extremely close to the blue hat on the bench as the mother cat grips its edge and pulls it down. Follow the swinging pompom in a fast descending curve as the cat lands on the veranda floor and immediately trots away. The hat briefly resembles an enormous blue sail at this low camera height.2 to 4 seconds: Race backward ahead of the cat as the girl notices the theft and follows. Keep the cat large in the foreground and the girl’s face visible above and behind it. The girl calls, “Hey, that’s my hat!” Her delivery is surprised and playful, not frightened or furious.4 to 6 seconds: Move alongside the cat as it passes between outdoor chair legs. Use the legs as towering foreground structures, with the garden visible through the gaps. The pompom bounces against the floor in direct response to the cat’s movement. The girl follows around the chairs rather than magically appearing on the other side.6 to 8 seconds: Bank around the final chair to reveal the wicker basket against the sheltered wall. The cat reaches it and lowers the hat over the near edge. Show its mouth releasing the fabric. The camera continues around the basket’s outer curve, gradually revealing its interior.8 to 10 seconds: The first kitten raises its small head beside the blue knit. The girl arrives and kneels, her expression changing as she understands. The mother cat nudges the hat once with her nose. Keep the second kitten below the far rim, with only a subtle movement in the blanket suggesting that the basket contains more than the viewer has seen.10 to 12 seconds: Rise slightly to include the girl’s face and the basket together. She smiles and says softly, “Keep it.” She gently arranges the hat along the basket’s inner edge as an extra cushion, leaving the kitten’s face and breathing space completely clear.12 to 14 seconds: Continue a close, flowing orbit. The girl strokes the mother cat’s shoulder while the first kitten rests its chin against the blue knit. The mother settles beside the basket. The cream pompom hangs just inside the basket, moving slightly from the girl’s adjustment.14 to 15 seconds: As the camera curves to a new angle, the second kitten pops its head up beside the first and gives the pompom one tiny, clumsy paw tap. The girl’s surprised grin is visible behind them. End with two small faces framed by the stolen hat, revealing that the cat’s “crime” has furnished a family-sized cuddle.Visual treatment: Orange fur, blue wool, cream wicker, plum fabric, soft green leaves, and warm afternoon light. Emphasize whiskers, knitted texture, tiny paws, and subtle expressions. Audio: Speak only the two quoted lines. Include light paw steps, the pompom brushing the floor, quiet garden birds, and a very soft kitten sound at the final reveal. No talking animals or narration.Continuity restrictions: One mother cat, exactly two kittens, one hat, one girl. No cuts, chair-leg edit wipes, disappearing fabric, kitten duplication, instant births, humanlike cat gestures, hats covering animal faces, slow motion, or sudden movement into a different garden.
+```
+
+### How to adapt it
+
+Map a compact route through one location and track a single prop from theft to reveal. Keep the camera near animal height, then rise for the human reaction. State exactly how many animals are present and when each becomes visible.
+
+**Source:** [Umesh](<https://x.com/umesh_ai>)
+
+[Original source](<https://x.com/umesh_ai/status/2106289723673313748>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#hat-thief-cat-low-camera-continuous-reveal>)
+
+<a id="japanese-solid-text-physical-action-tests"></a>
+
+## Japanese Words as Physical Objects
+
+[![Japanese Words as Physical Objects](<https://pbs.twimg.com/amplify_video_thumb/2105231348156035072/img/VP_AfbeqbK16-OiS.jpg>)](<https://x.com/akiyoshisan/status/2105231791334596842>)
+
+Four text-to-video tests treat Japanese words as solid objects that characters jump over, drop, topple or raise from the sea.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Treat the word as a physical object: specify its exact characters, typeface, material, thickness and shadow. Use one main subject and timed actions. Start with one short word and check readability throughout the movement.
+
+**Source:** [右よし左よし秋よし@AIエンタメ](<https://x.com/akiyoshisan>)
+
+[Original source](<https://x.com/akiyoshisan/status/2105231791334596842>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#japanese-solid-text-physical-action-tests>)
 
 ## Attribution and corrections
 
