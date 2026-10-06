@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **34 verified examples**, with sources reviewed through **2026-10-05**.
+The collection currently contains **38 verified examples**, with sources reviewed through **2026-10-06**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -2221,6 +2221,109 @@ Treat the word as a physical object: specify its exact characters, typeface, mat
 **Source:** [右よし左よし秋よし@AIエンタメ](<https://x.com/akiyoshisan>)
 
 [Original source](<https://x.com/akiyoshisan/status/2105231791334596842>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#japanese-solid-text-physical-action-tests>)
+
+<a id="locked-off-suv-jump-commercial"></a>
+
+## Locked-Off SUV Jump with a Stoic Seated Hero
+
+[![Locked-Off SUV Jump with a Stoic Seated Hero video preview](<https://pbs.twimg.com/amplify_video_thumb/2107204878653145088/img/i0rv2IzN2Zne_mvQ.jpg>)](<https://x.com/kaanakz/status/2107204923146321922>)
+
+A seated man stays calm as an SUV jumps through a dust cloud in a vertical commercial concept with a fixed camera.
+
+**Model:** Kling 4.0 Flash
+
+```text
+[Generation Goal]
+Generate a vertical 9:16 cinematic commercial video in one continuous locked-off take. The core subject is a man who remains seated and stoic while a black rugged off-road SUV launches over him and lands behind him, with a thick dust cloud engulfing the frame before settling.
+
+[Reference Asset Roles]
+image-ref, is used only for the man's facial features, short curly brown hair, blue eyes, skin texture, and overall likeness. Do not use the navy suit, white shirt, or blue patterned tie from the image; replace the clothing completely with the specified casual attire.
+
+[Subjects and Relationships]
+The man maps exclusively to image-ref, for face and head only. He wears an all-black casual jacket and trousers with sand/tan boots. He sits perfectly still in a small folding camp chair at the exact center of the field. There is one black rugged off-road SUV (Land Rover Defender / Ford Bronco-style with round LED headlights). The man never moves from his chair or changes posture except for the subtle hand and arm motions required to smoke.
+
+[Event Script]
+At the start: Ultra-low ground-level camera, static tripod, eye-level with the soil, symmetrical one-point perspective, centered medium-wide full-body framing. The man sits in the camp chair in the middle of a freshly plowed red-brown dirt field, stoic and deadpan, relaxed posture, hands resting on his lap. He holds a cigarette between his fingers and actively smokes throughout, taking slow casual drags and gently exhaling visible smoke. The black SUV appears far in the background at the end of the field.
+
+Principal event: The SUV charges toward the camera, kicking up a huge orange dust cloud. It launches airborne, wheels off the ground, and flies directly over the seated man and the camera. It lands behind him and brakes hard. A thick orange dust wall engulfs the frame; the truck stops inches behind the man with headlights blazing through the dust (strong bloom, lens flare, volumetric god rays). The dust slowly settles, revealing the truck parked right behind him with high beams still on; the man remains completely untouched and continues smoking.
+
+At the end: The truck and man are silhouetted as the frame slowly fades to black, leaving centered empty space for an end-card logo.
+
+[Maintain Consistency]
+Keep the man's identity and face from image-ref, all-black casual jacket and trousers with sand/tan boots, exact centered seated position, camp chair, continuous smoking action, single SUV, spatial relationships (truck always ends behind the man), and the continuous locked-off camera. Never allow the man to flinch, stand, or change expression beyond the subtle smoking motions. No clothing from the reference image may appear.
+
+LOCATION: Open agricultural farmland with rows of green crops on the horizon, power line on the left, overcast sky with soft clouds at the top of frame, golden hour.
+
+LIGHT: Low-angle golden hour sunlight diffused by dust and overcast clouds, soft contrasty natural light, strong backlight from the truck headlights (warm white, 5000K) cutting through dust, rim light on the man's silhouette, atmospheric haze, Tyndall effect, specular highlights on the truck body.
+
+COLOR GRADE: Teal-and-orange cinematic grade, saturated terracotta orange dust, deep red-brown soil, desaturated gray-blue sky, crushed blacks, rolled-off highlights, subtle film grain, slight vignette, high dynamic range.
+
+MOTION/FX: Practical dust and debris simulation, slight camera shake only at the moment of the jump/impact, 180° shutter motion blur on the truck, particles flying toward the lens. Heavy low-frequency engine roar and landing thud, then silence.
+
+Style: Hollywood car commercial, high-energy yet calm hero shot, hyper-realistic, sharp detail. Cinema camera with 24–35mm wide-angle lens, shallow-to-medium depth of field (~f/2.8), subject and truck sharp, background slightly soft with natural lens compression.
+```
+
+### How to adapt it
+
+Provide your own face reference and assign it only to identity. Specify the replacement wardrobe, fixed chair position, vehicle path, and dust reveal separately.
+
+**Source:** [Kaan](<https://x.com/kaanakz>)
+
+[Original source](<https://x.com/kaanakz/status/2107204923146321922>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#locked-off-suv-jump-commercial>)
+
+<a id="torii-sunset-drone-follow"></a>
+
+## Sunset Drone Follow Through Torii Gates
+
+[![Sunset Drone Follow Through Torii Gates video preview](<https://pbs.twimg.com/amplify_video_thumb/2106973538515345408/img/QuQeiyIs7seZwU-r.jpg>)](<https://x.com/aisukinahito/status/2106973734297026989>)
+
+A kimono-clad character walks through sunset torii gates while a following camera rises above the path.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Keep a single walking subject and a clear path. Plan a rear follow that rises above foreground gates, and align the character lighting with the sunset landscape.
+
+**Source:** [tenchie](<https://x.com/aisukinahito>)
+
+[Original source](<https://x.com/aisukinahito/status/2106973734297026989>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#torii-sunset-drone-follow>)
+
+<a id="four-product-commercial-styles"></a>
+
+## Four Lighting Styles for a Vodka Bottle
+
+[![Four Lighting Styles for a Vodka Bottle video preview](<https://pbs.twimg.com/amplify_video_thumb/2107277518210314240/img/wlGgrBoG9h-K1ZqD.jpg>)](<https://x.com/zeng_wt/status/2107277575756173413>)
+
+A four-part product-film comparison shows the same vodka bottle under cool, nighttime, warm, and neutral lighting.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Compare distinct lighting and background treatments for one product. Keep bottle proportions and label placement consistent, then review each treatment side by side.
+
+**Source:** [𝐙𝐞𝐧𝐠 💜](<https://x.com/zeng_wt>)
+
+[Original source](<https://x.com/zeng_wt/status/2107277575756173413>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#four-product-commercial-styles>)
+
+<a id="viking-rpg-gameplay-concept"></a>
+
+## Viking RPG Gameplay with a Following Camera
+
+[![Viking RPG Gameplay with a Following Camera video preview](<https://pbs.twimg.com/amplify_video_thumb/2106459302609453057/img/pNjldCdCrrNFtt0o.jpg>)](<https://x.com/PromptSin/status/2106459328874267013>)
+
+A third-person Viking gameplay concept follows cliffside traversal toward a giant with a minimap and on-screen controls.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Plan traversal and combat as distinct action beats. Keep the camera behind the character and give the minimap, health bars, and controls stable positions.
+
+**Source:** [PromptSin](<https://x.com/PromptSin>)
+
+[Original source](<https://x.com/PromptSin/status/2106459328874267013>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#viking-rpg-gameplay-concept>)
 
 ## Attribution and corrections
 
