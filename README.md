@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **38 verified examples**, with sources reviewed through **2026-10-06**.
+The collection currently contains **43 verified examples**, with sources reviewed through **2026-10-07**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -2324,6 +2324,120 @@ Plan traversal and combat as distinct action beats. Keep the camera behind the c
 **Source:** [PromptSin](<https://x.com/PromptSin>)
 
 [Original source](<https://x.com/PromptSin/status/2106459328874267013>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#viking-rpg-gameplay-concept>)
+
+<a id="seven-metamorphoses-tracking"></a>
+
+## Seven Metamorphoses in Continuous Tracking Shots
+
+[![Seven Metamorphoses in Continuous Tracking Shots video preview](<https://pbs.twimg.com/amplify_video_thumb/2107479016890351616/img/GDNElUVytuPob0t9.jpg>)](<https://x.com/sebatheepan/status/2107479571226558613>)
+
+A transformation reel pairs moving subjects with chrome, nanotech, smoke and creature effects; four source prompts are available.
+
+**Model:** Kling 4.0
+
+### Liquid chrome executive · `en`
+
+```text
+[GENERATION GOAL]A continuous 10-second cinematic 16:9 tracking shot of an executive walking briskly through a sleek corporate glass atrium. As he walks without breaking stride, his suit and skin ripple and melt into reflective liquid mirror-chrome, shifting his anatomy into a sleek metallic humanoid before re-solidifying into an armored cybernetic operative. Single continuous tracking take, no cuts, photorealistic VFX.[GLOBAL STYLE]16:9 widescreen, 4K 24fps high-budget sci-fi feature film look. Smooth eye-level steadicam tracking backward at matching walking speed. Cool architectural lighting, photoreal Fresnel reflections, ray-traced chrome refractions, sharp caustics, and authentic fluid-surface tension. No HUD, no text, no watermarks.[CHARACTER & TRANSFORMATION DYNAMICS]- 0.0–3.0s | SOLID FORM: Sharp corporate executive in a tailored charcoal wool suit, confident steady stride across a polished terrazzo floor.- 3.0–7.0s | LIQUID METAMORPHOSIS: Silver liquid mercury ripples erupt across his collar and spread down his limbs. Fabric wrinkles dissolve into fluid chrome waves. His face briefly liquefies into mirror-sheen mercury, reflecting atrium lights and ceiling glass while maintaining continuous walking motion and skeletal forward mass.- 7.0–10.0s | HARDENING SHIFT: The chrome rapidly hardens, plating together with mechanical seams into a matte-black and brushed-steel tactical android, finishing the walk with heavy metallic steps.[SETTING]High-end minimalist skyscraper atrium with floor-to-ceiling glass, distant elevators moving, architectural indoor ficus trees, and sharp daylight filtering through grid trusses.[AUDIO — NATIVE / FOLEY]Rhythmic leather shoe clicks across polished stone transitioning into dense, sloshing liquid mercury ripples and high-tension fluid resonance, snapping into heavy pneumatic servo clanks on polished tile.[NEGATIVE]Cartoon render, 2D morph cut, face melting off, glitchy limbs, missing legs, jittery frame rate, low contrast, text, subtitles, watermark.
+```
+
+### Smoke and ravens investigator · `en`
+
+```text
+[GENERATION GOAL]A 10-second cinematic 16:9 dynamic low-angle tracking shot of a Victorian trench-coated investigator sprinting through a damp, foggy cobblestone alley. Mid-stride, his body violently unravels into an aerodynamic vortex of black smoke and a flock of shadowy ravens that surge forward before snapping back into physical form as a predatory shadow-beast. Continuous motion, Hollywood dark fantasy blockbuster grade.[GLOBAL STYLE]16:9, 24fps anamorphic lens aesthetic with natural blue anamorphic streaks. Fast forward-tracking dolly moving ahead of the runner. Gritty 19th-century atmospheric lighting, gaslight flares, dense volumetric fog, turbulent particle physics, realistic bird flight dynamics.[METAMORPHOSIS TIMELINE]- 0.0–3.2s | THE SPRINT: Victorian man in a flying heavy wool trench coat running hard toward camera, breath misting, gravel kicking beneath boots.- 3.2–6.8s | SHADOW SCATTER: As his foot hits a puddle, his torso fractures into thick black soot and oily vapor. His limbs burst outward into twenty glossy black ravens flapping violently forward through the air, retaining forward momentum as an aerodynamic swarm riding a dark smoke ribbon.- 6.8–10.0s | CONDENSATION & POUNCE: The swarm and smoke suddenly pull together, condensing into a massive quadruped shadow-hound that hits the wet cobblestones running with splashing water and glowing embers in its eye sockets.[SETTING]Narrow Victorian London back-alley, wet cobblestones, glowing street gas lamps, peeling brick walls, wrought iron fire escapes, low-hanging mist.[AUDIO — NATIVE / FOLEY]Pounding boot leather on wet stone, sudden violent whoosh of swirling wind, chorus of raven wing-beats and harsh caws, followed by heavy claw scrapes gouging wet stone and low guttural breathing.[NEGATIVE]Cheap CGI smoke overlay, 2D planar morph, static cut, cartoon animals, stuttering physics, subtitles, logos, blurry motion.
+```
+
+### Nanotech parkour suit · `en`
+
+```text
+[GENERATION GOAL]A 12-second cinematic 16:9 tracking profile shot of a parkour athlete sprinting across a skyscraper rooftop at dusk. As she vaults over an air duct, glowing kinetic nanotech scales blossom outward across her civilian clothes, assembling into an aerodynamic titanium exo-suit before she hits the ground running. Single continuous motion, blockbuster superhero aesthetic.[GLOBAL STYLE]16:9, 24fps high-octane action cinema. Dynamic side-tracking camera mounted on a high-speed vehicle/cable rig keeping pace with the sprint. Golden hour twilight, sharp metallic edge rim-light, specular highlights, authentic weight transfer and inertia.[METAMORPHOSIS TIMELINE]- 0.0–3.5s | CIVILIAN PARKOUR: Female athlete in black joggers and a hoodie sprinting full tilt along the rooftop gravel. She plants two hands on a concrete ventilation box to vault.- 3.5–7.5s | NANOTECH PROPAGATION: In mid-air vault, a geometric micro-hexagonal grid illuminates blue on her chest. Thousands of razor-sharp titanium alloy plates interlock and crawl across her neck, arms, and legs like living metal scales, snapping shut with mechanical precision and covering her face with an illuminated visor.- 7.5–12.0s | POWER LANDING & SPRINT: She lands seamlessly on both armored boots without breaking cadence, thruster micro-vents on her calves expelling blue ionized exhaust as she accelerates into an superhuman sprint toward the rooftop edge.[SETTING]Rooftop of an ultra-modern metropolis at sunset: HVAC units, communications towers, gravel floor, and a sprawling illuminated skyline in the distant depth of field.[AUDIO — NATIVE / FOLEY]Running shoe scuffs, heavy breathing, intricate high-frequency interlocking metallic chitters and pneumatic clicks of nanotech plating, followed by a resonant metallic thud and high-pitch turbine whine on landing.[NEGATIVE]Sparks that look like confetti, rubbery suit textures, cartoon shaders, extra limbs, jerky transformation steps, text, UI overlays, watermarks.
+```
+
+### Alien symbiote runner · `en`
+
+```text
+[GENERATION GOAL]A continuous 10-second cinematic 16:9 tracking shot of an athletic street fighter jogging down a rain-slicked neon alleyway. As he runs toward the camera without breaking cadence, viscous, oily black tendrils erupt from beneath his skin, crawling across his neck, face, and clothing to envelop him in a glistening, alien symbiote bio-carapace. Single continuous take, no cuts, photorealistic VFX.[GLOBAL STYLE]16:9 widescreen, 4K 24fps gritty high-budget comic-book cinema aesthetic. Smooth backward-tracking steadicam matching the jogger's forward speed. Low-key urban night lighting, neon magenta and cyan rim lights reflecting off wet asphalt, ray-traced subsurface scattering on viscous black fluid, authentic organic surface tension. No HUD, no text, no watermarks.[METAMORPHOSIS TIMELINE]- 0.0–3.0s | HUMAN RUNNER: Athletic man in a torn grey hoodie and combat joggers jogging steadily toward the camera, heavy breath visible in cold night air.- 3.0–7.0s | SYMBIOTE ERUPTION: Pitch-black, hyper-glossy tendrils burst out from his chest fabric and wrists, slithering aggressively across his skin. The black fluid web rapidly engulfs his throat and lower face, organic sinew tightening into muscular black chitinous fiber while his legs continue a powerful, unbroken running gait.- 7.0–10.0s | FULL ALIEN VISAGE: The tendrils fuse shut over his head into a terrifying, smooth obsidian bio-helmet with jagged milky-white eye slits and glistening razor-fanged jaws snapping shut. His hands elongate into sharp talons as he surges into an explosive sprint directly toward the lens.[SETTING]Narrow Cyberpunk alleyway at night: puddles reflecting glowing neon signboards, steam rising from sewer grates, overhead tangled cables, dripping brick walls.[AUDIO — NATIVE / FOLEY]Wet athletic shoe impacts on damp asphalt, sudden wet tearing fabric sounds, thick organic squelching and slithering fluid physics, followed by a concussive guttural alien hiss and explosive heavy thuds on pavement.[NEGATIVE]Rubbery 2D mask, face clipping, stuttering legs, morph cut, cartoon graphics, missing limbs, slow-motion jitter, subtitles, watermark.
+```
+
+### How to adapt it
+
+Keep one direction of travel through the transformation. Divide the change into a starting form, material transition and final form; test each shot separately.
+
+**Source:** [Pan](<https://x.com/sebatheepan>)
+
+[Original source](<https://x.com/sebatheepan/status/2107479571226558613>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#seven-metamorphoses-tracking>)
+
+<a id="scree-runner-camera-whip"></a>
+
+## Scree Descent with a Camera Whip
+
+[![Scree Descent with a Camera Whip video preview](<https://pbs.twimg.com/amplify_video_thumb/2107501891123019776/img/8zxcYIWWGlQboEKL.jpg>)](<https://x.com/HBCoop_/status/2107501923356319776>)
+
+A trail runner descends loose rock and passes the lens as the camera whips around; the creator rebuilt the sound in ElevenLabs.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Give the runner one uninterrupted downhill action. Specify the camera turn when the subject passes the lens and check clothing and footwear after the turn.
+
+**Source:** [Heather Cooper](<https://x.com/HBCoop_>)
+
+[Original source](<https://x.com/HBCoop_/status/2107501923356319776>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#scree-runner-camera-whip>)
+
+<a id="timed-dialogue-performance"></a>
+
+## Timed Dialogue with Separate Voice and Lip Sync
+
+[![Timed Dialogue with Separate Voice and Lip Sync video preview](<https://pbs.twimg.com/amplify_video_thumb/2107366731736125440/img/k9f69mkVCFjy-zOT.jpg>)](<https://x.com/aicreataro/status/2107367797747782085>)
+
+A Japanese performance study combines Kling acting, Gemini TTS voice and ElevenLabs lip sync in a finished dialogue scene.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Record or generate the voice first and mark each line by its start time. Use those timings to direct the performance, then align the final voice and lip sync.
+
+**Source:** [aicreataro](<https://x.com/aicreataro>)
+
+[Original source](<https://x.com/aicreataro/status/2107367797747782085>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#timed-dialogue-performance>)
+
+<a id="cozy-rainy-lofi-loop"></a>
+
+## Cozy Rainy Window Lofi Animation
+
+[![Cozy Rainy Window Lofi Animation video preview](<https://pbs.twimg.com/amplify_video_thumb/2107572688336130048/img/5YRjwxXSuQcaNtkH.jpg>)](<https://x.com/koldo2k/status/2107573471614304577>)
+
+A cozy animated lofi scene combines Midjourney imagery, Kling 4.0 Flash motion and Lyria 3 Pro music.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Start with a stable illustrated room and limit motion to small gestures, steam and rainfall. For a loop, compare the first and last frames before editing the seam.
+
+**Source:** [Koldo Huici](<https://x.com/koldo2k>)
+
+[Original source](<https://x.com/koldo2k/status/2107573471614304577>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#cozy-rainy-lofi-loop>)
+
+<a id="depth-map-hand-wave-reference"></a>
+
+## Hand-Wave Dance from a Depth-Map Reference
+
+[![Hand-Wave Dance from a Depth-Map Reference video preview](<https://pbs.twimg.com/amplify_video_thumb/2107490249094160385/img/AWnzlZXpEtABQj5p.jpg>)](<https://x.com/ZetoGroovin/status/2107603054556221828>)
+
+A comparison reel shows character-sheet and dance depth-map references driving hand waves in Kling 4.0 Flash and Seedance 2.5.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Use your own short dance performance as motion reference and a separate character sheet for identity. Keep the camera fixed and compare the arm path and clothing.
+
+**Source:** [Zeto](<https://x.com/ZetoGroovin>)
+
+[Original source](<https://x.com/ZetoGroovin/status/2107603054556221828>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#depth-map-hand-wave-reference>)
 
 ## Attribution and corrections
 
