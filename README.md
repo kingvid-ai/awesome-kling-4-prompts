@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **43 verified examples**, with sources reviewed through **2026-10-07**.
+The collection currently contains **48 verified examples**, with sources reviewed through **2026-10-08**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -2438,6 +2438,226 @@ Use your own short dance performance as motion reference and a separate characte
 **Source:** [Zeto](<https://x.com/ZetoGroovin>)
 
 [Original source](<https://x.com/ZetoGroovin/status/2107603054556221828>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#depth-map-hand-wave-reference>)
+
+<a id="flash-coastal-creature-emergence"></a>
+
+## Coastal Storm and Creature Emergence
+
+[![Coastal Storm and Creature Emergence video preview](<https://pbs.twimg.com/amplify_video_thumb/2107838776357613568/img/6BFA2G6_PGQkPnND.jpg>)](<https://x.com/shikoba_86/status/2107845423276634467>)
+
+A calm coastal start frame becomes a stormy multi-shot creature scene, with an explicit geography checklist and environmental sound.
+
+**Model:** Kling 4.0 Flash
+
+```text
+Use the start image as the exact opening frame and preserve the identity of the coastal location: the rocky shoreline, narrow sandy beach, curved dirt path on the right, calm bay, wooden posts in the foreground water, small pier in the distance, and the large rock wall on the far side of the cove.
+
+Build a multi-shot scene that begins in quiet stillness and then pushes the same location into its opposite extreme.
+
+Opening: the sea is calm, the air is still, and the scene feels cold and quiet at dusk.
+
+Then the weather begins to shift. Wind rises across the shoreline. The water becomes rougher. Dark storm clouds roll in over the bay. Rain begins falling and waves crash harder against the rocks and beach.
+
+From the sea, a monstrous humanoid figure slowly emerges from the stormy water. It first appears at a distance, partially obscured by rain, sea spray and waves, then continues walking toward the shore with heavy deliberate steps.
+
+Structure the scene as a multishot sequence:
+1. Wide establishing shot of the calm coast.
+2. Environmental shot as the storm takes over.
+3. Medium-long shot of the figure appearing from the sea.
+4. Closer dramatic shot as the creature walks through the waves.
+5. Final wide or medium-wide shot as it approaches the beach.
+
+Keep the geography of the original location coherent throughout the sequence.
+
+Sound: rising wind, distant thunder, rain, crashing waves and heavy water movement around the creature.
+No background music.
+No captions.
+```
+
+### How to adapt it
+
+Replace the coastline and creature while listing fixed landmarks from your start image. Separate weather escalation from the creature reveal and specify sound for each beat.
+
+**Source:** [Marco "Shikoba" Riccetti](<https://x.com/shikoba_86>)
+
+[Original source](<https://x.com/shikoba_86/status/2107845423276634467>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-coastal-creature-emergence>)
+
+<a id="flash-coastal-restrained-dialogue"></a>
+
+## Restrained Two-Character Dialogue by the Coast
+
+[![Restrained Two-Character Dialogue by the Coast video preview](<https://pbs.twimg.com/amplify_video_thumb/2107839380362493952/img/qLicuniE4qtuO-GM.jpg>)](<https://x.com/shikoba_86/status/2107845428284715318>)
+
+A coastal reference becomes a tense conversation, using assigned dialogue, pauses, eyelines and a shot-by-shot coverage plan.
+
+**Model:** Kling 4.0 Flash
+
+```text
+Use the start image as the opening frame and preserve the same coastal location: the rocky shoreline, small beach, calm bay, dirt path on the right, distant pier, and the rock wall across the cove.
+
+Create a grounded multi-shot dialogue scene at dusk.
+
+Two people enter from the dirt path on the right and walk toward the beach. They stop near the shoreline and have a tense, restrained conversation.
+
+Use exactly the following dialogue and do not add, replace, paraphrase, or improvise any other spoken words:
+
+Character A: “You said no one would be here.”
+Character B: “I was wrong.”
+Character A: “Then why did you bring me?”
+Character B: “Because you needed to see this.”
+
+Each line must be spoken only by the assigned character.
+Do not overlap dialogue.
+Leave a short natural pause between each line.
+
+Character A is suspicious and increasingly uneasy.
+Character B stays calm, controlled and slightly evasive.
+
+Structure the scene as:
+1. Wide establishing shot of the empty shoreline.
+2. Wide shot as both characters enter from the path.
+3. Medium two-shot as they stop.
+4. Over-the-shoulder on Character A.
+5. Over-the-shoulder on Character B.
+6. Close reaction on Character A.
+7. Close or medium close-up on Character B.
+8. Final wider shot holding both characters near the shoreline.
+
+Maintain character identity, clothing, screen direction, eyelines and beach geography across every shot.
+
+No additional voices.
+No additional dialogue.
+No background music.
+No captions.
+```
+
+### How to adapt it
+
+Assign every spoken line to a character, then describe pauses and reactions. Keep clothing, eyelines and screen direction stable across the coverage.
+
+**Source:** [Marco "Shikoba" Riccetti](<https://x.com/shikoba_86>)
+
+[Original source](<https://x.com/shikoba_86/status/2107845428284715318>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-coastal-restrained-dialogue>)
+
+<a id="flash-coastal-continuous-boat-tracking"></a>
+
+## Continuous Coastal Boat Tracking Shot
+
+[![Continuous Coastal Boat Tracking Shot video preview](<https://pbs.twimg.com/amplify_video_thumb/2107840134565507073/img/kEfDBpkZ49MvhcOP.jpg>)](<https://x.com/shikoba_86/status/2107845433938653337>)
+
+A quiet coastal frame becomes an uninterrupted boat chase, turning toward approaching boats before following them along the shoreline.
+
+**Model:** Kling 4.0 Flash
+
+```text
+Use the start image as the opening frame and preserve the same coastal location.
+
+Create one continuous shot only.
+No cuts.
+No multishot.
+
+The shot starts calm and still at dusk.
+
+Then the camera turns toward the sea.
+
+Two boats appear far in the distance and race quickly toward the camera across the water.
+
+The boats grow rapidly larger as they approach.
+
+When they pass close to the camera, the camera immediately follows them in the same uninterrupted shot as they continue racing fast along the coastline.
+
+Maintain the geography of the original location throughout the entire camera movement.
+
+The shoreline, cliffs and bay must remain recognizable while the camera changes direction and begins tracking the boats.
+
+Sound: quiet sea ambience at first, followed by approaching engines, water spray and rushing wind.
+No background music.
+No captions.
+```
+
+### How to adapt it
+
+Define the approach, close pass and follow as successive camera actions. List visible landmarks to preserve geography throughout the turn.
+
+**Source:** [Marco "Shikoba" Riccetti](<https://x.com/shikoba_86>)
+
+[Original source](<https://x.com/shikoba_86/status/2107845433938653337>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-coastal-continuous-boat-tracking>)
+
+<a id="flash-coastal-explosion-vfx"></a>
+
+## Coastal Explosions with Environmental Interaction
+
+[![Coastal Explosions with Environmental Interaction video preview](<https://pbs.twimg.com/amplify_video_thumb/2107840669171527680/img/oR1ACKcSeIGdZ1AP.jpg>)](<https://x.com/shikoba_86/status/2107845437705097483>)
+
+A coastal start frame anchors a multi-shot explosion sequence, with debris, water displacement and smoke tied to the original geography.
+
+**Model:** Kling 4.0 Flash
+
+```text
+Use the start image as the exact opening frame and preserve the identity of the coastal location: the rocky shoreline, small beach, calm bay, dirt path on the right, wooden posts in the foreground water, distant pier, and the large rock wall across the cove.
+
+Create a cinematic multi-shot environmental destruction sequence.
+
+The scene begins calm and still at dusk.
+
+A sudden bright impact appears in the distance near the far side of the cove.
+
+A powerful explosion erupts along the rocky coastline, throwing debris, dust, smoke and water high into the air.
+
+The shockwave spreads across the bay. The water reacts violently, waves push toward the shoreline, loose debris falls into the sea and smoke expands across the background.
+
+A second larger explosion follows closer to the shoreline, briefly illuminating the rock wall, beach and water.
+
+Structure the sequence as:
+1. Wide establishing shot of the calm coast.
+2. Distant impact and first explosion.
+3. Wider shot showing the shockwave affecting the environment.
+4. Closer dramatic shot with debris, smoke, water spray and falling rock fragments.
+5. Final wide shot showing the same coastline covered in smoke and aftermath.
+
+Preserve the spatial layout of the bay, beach, dirt path, pier, shoreline and rock wall across every shot.
+
+The explosions must interact physically with the environment through realistic debris trajectories, water displacement, smoke expansion and changing light.
+
+Keep the scene readable rather than abstract or chaotic.
+
+Sound: distant impact, deep explosions, rock debris, water displacement, wind and waves.
+No background music.
+No captions.
+```
+
+### How to adapt it
+
+Keep landmarks from the start image in each shot. Specify how shockwaves affect water, rock and light, then end with an aftermath view.
+
+**Source:** [Marco "Shikoba" Riccetti](<https://x.com/shikoba_86>)
+
+[Original source](<https://x.com/shikoba_86/status/2107845437705097483>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-coastal-explosion-vfx>)
+
+<a id="cat-selfie-street-vlogger"></a>
+
+## Talking Tabby Cat in a Continuous Selfie Vlog
+
+[![Talking Tabby Cat in a Continuous Selfie Vlog video preview](<https://pbs.twimg.com/amplify_video_thumb/2107724583063392256/img/Sc01AQ0nxCRBnJHV.jpg>)](<https://x.com/AIwithSarah_/status/2107724687984013347>)
+
+A tabby cat walks through a city in selfie mode, combining continuous handheld framing, speech and small character gestures.
+
+**Model:** Kling 4.0
+
+```text
+A 15-second continuous cinematic selfie-style video of an anthropomorphic tabby cat vlogger walking down a modern city street while holding a front-facing camera. The cat is wearing black headphones and a blue plaid shirt, speaking directly to the camera in a casual, confident tone like a daily street vlogger. Mouth movement synced to speech throughout.
+The camera remains in selfie mode the entire time with slight handheld shake for realism. Natural daylight lighting. Background includes passing cars, pedestrians, and tall buildings softly blurred with shallow depth of field.
+As the cat walks forward, it talks continuously, occasionally nodding, blinking, and slightly adjusting its headphones mid-sentence. Subtle fabric movement from wind. Natural whisker and ear motion. The cat briefly laughs near the end while still speaking, then gives a friendly wink at the camera.
+Ultra-realistic fur detail, natural lip sync, vlog aesthetic, cinematic color grading, 4K, 24fps, realistic motion blur.
+```
+
+### How to adapt it
+
+Keep selfie framing continuous and specify a small set of gestures. Replace the animal, outfit and street while keeping the speech delivery and camera relationship clear.
+
+**Source:** [Sarah](<https://x.com/AIwithSarah_>)
+
+[Original source](<https://x.com/AIwithSarah_/status/2107724687984013347>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#cat-selfie-street-vlogger>)
 
 ## Attribution and corrections
 
