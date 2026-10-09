@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **48 verified examples**, with sources reviewed through **2026-10-08**.
+The collection currently contains **52 verified examples**, with sources reviewed through **2026-10-09**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -2658,6 +2658,90 @@ Keep selfie framing continuous and specify a small set of gestures. Replace the 
 **Source:** [Sarah](<https://x.com/AIwithSarah_>)
 
 [Original source](<https://x.com/AIwithSarah_/status/2107724687984013347>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#cat-selfie-street-vlogger>)
+
+<a id="flash-helicopter-offshore-escape"></a>
+
+## Continuous Helicopter Escape from an Offshore Fire
+
+[![Continuous Helicopter Escape from an Offshore Fire video preview](<https://pbs.twimg.com/amplify_video_thumb/2108059327508729856/img/bt_6iwe8wZWZx-ff.jpg>)](<https://x.com/umesh_ai/status/2108059420295102469>)
+
+A yellow rescue helicopter escapes a burning offshore platform in a continuous nighttime camera move through rain and explosions.
+
+**Model:** Kling 4.0 Flash
+
+### Original video prompt (author reply) · `en`
+
+```text
+Create a 20-second ultra-cinematic, photorealistic action sequence featuring a yellow rescue helicopter escaping a burning offshore platform during a violent nighttime storm. The aircraft is already hovering just clear of the helipad when the platform begins failing. Maintain one continuous camera move, traveling around the helicopter and through open air while always staying outside the rotor disk.0-3 sec: Begin skimming black ocean water streaked with orange fire reflections. Rise rapidly beside the platform’s immense steel legs to reveal the helicopter hovering above the outer edge of the helipad. Behind it, flames climb a processing tower through heavy rain.3-6 sec: Race alongside the cockpit as a pressurized pipe ruptures on the platform, releasing a huge directional jet of flame behind the aircraft. Orange light sweeps across the wet windshield. The helicopter begins moving outward as fragments strike the empty helipad.6-9 sec: Arc ahead of the nose, keeping the entire rotor disk visible against the fire. A damaged crane starts tipping across the helicopter’s departure corridor. Its hanging hook swings through the rain as the pilot initiates a controlled descending sidestep around the platform’s outer corner.9-12 sec: Follow the helicopter downward and sideways. The crane boom sweeps through the space it occupied moments earlier, passing just behind the tail. Keep the clearance visible as the aircraft continues outward without touching the structure.12-15 sec: Sweep below the landing gear as the crane crashes through the platform deck. Catwalks tear free, steel beams tumble toward the ocean, and burning wreckage produces violent bursts of steam as it strikes the water.15-18 sec: Accelerate ahead of the helicopter and track backward over open sea. The aircraft gains forward speed while an enormous flare tower buckles behind it. Rain streams diagonally across the frame, illuminated by cyan deck lights and the growing orange glow.18-20 sec EPIC CLIMAX: The tower collapses into the damaged processing deck, triggering an immense fuel-fed fireball that rises above the entire platform. The camera climbs into a wide side view of the escaping helicopter, safely over clear water, while the explosion illuminates the storm clouds and paints a blazing reflection across the ocean. Style: photorealistic aviation, heavy rain, realistic rotor motion, powerful fire simulation, convincing aircraft inertia, immense industrial scale, orange flames against black water and cyan lights, 16:9, 4K, continuous shot, no cuts.
+```
+
+### How to adapt it
+
+Plan the camera path and aircraft escape corridor together. Divide the shot into timed beats, keep obstacle clearance visible, and end over open water.
+
+**Source:** [Umesh](<https://x.com/umesh_ai>)
+
+[Original source](<https://x.com/umesh_ai/status/2108059420295102469>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-helicopter-offshore-escape>)
+
+<a id="flash-gas-giant-moon-exploration"></a>
+
+## Moon Exploration Beneath a Giant Planet
+
+[![Moon Exploration Beneath a Giant Planet video preview](<https://pbs.twimg.com/amplify_video_thumb/2108121906041831424/img/cF7JeYHz_3NJtZiY.jpg>)](<https://x.com/Alin_Reaper05/status/2108123933488689252>)
+
+Armored explorers and a rover cross a dark moon beneath an enormous gas giant, using stark sunlight and scale for cinematic atmosphere.
+
+**Model:** Kling 4.0 Flash
+
+### Original video prompt (author reply) · `en`
+
+```text
+An armored explorer stands near the edge of a dark basalt ridge on an airless moon, looking toward an immense banded gas giant dominating the black sky. A second astronaut places a sensor tripod beside a parked expedition rover. Low sunlight casts long, sharply defined shadows across the cratered ground, while reflected planetary light softly illuminates the armor. Mass Effect-inspired cosmic exploration, awe through realistic scale, crisp surface detail, restrained white and charcoal equipment, expansive cinematic composition
+```
+
+### How to adapt it
+
+Establish the planet-to-astronaut scale first, then introduce equipment and a closer action beat. Keep sunlight direction, armor colors, and rover design consistent.
+
+**Source:** [Alin](<https://x.com/Alin_Reaper05>)
+
+[Original source](<https://x.com/Alin_Reaper05/status/2108123933488689252>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-gas-giant-moon-exploration>)
+
+<a id="flash-celestine-time-travel"></a>
+
+## Célestine and the Genie: Time Travel
+
+[![Célestine and the Genie: Time Travel video preview](<https://pbs.twimg.com/amplify_video_thumb/2108220997207732224/img/Pc5YahI9Rn7PnAkZ.jpg>)](<https://x.com/shirawiggles/status/2108224867950579900>)
+
+An upscaled Flash short follows Célestine and a genie from a candlelit palace to a modern city, combining dialogue and recurring characters.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Map the palace, city arrival, and conversation into separate story beats. Reuse character descriptions or references across shots and review dialogue timing before editing.
+
+**Source:** [Shira Wiggles](<https://x.com/shirawiggles>)
+
+[Original source](<https://x.com/shirawiggles/status/2108224867950579900>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-celestine-time-travel>)
+
+<a id="one-last-thing-apocalypse-dialogue"></a>
+
+## One Last Thing: Rooftop Apocalypse Romance
+
+[![One Last Thing: Rooftop Apocalypse Romance video preview](<https://pbs.twimg.com/amplify_video_thumb/2106533792924184576/img/HmU8-ZOPnLISA1pi.jpg>)](<https://x.com/HanaPetalAI/status/2106533929234968898>)
+
+A Japanese romantic comedy stages a rooftop confession beneath a fiery apocalypse, with a continuous dialogue scene and English subtitles.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Keep two speakers, one location, and one emotional turn. Use pauses and eye contact to carry the joke, with the dramatic background supporting the conversation.
+
+**Source:** [Hana Petal](<https://x.com/HanaPetalAI>)
+
+[Original source](<https://x.com/HanaPetalAI/status/2106533929234968898>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#one-last-thing-apocalypse-dialogue>)
 
 ## Attribution and corrections
 
