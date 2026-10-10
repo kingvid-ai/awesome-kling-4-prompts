@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **52 verified examples**, with sources reviewed through **2026-10-09**.
+The collection currently contains **54 verified examples**, with sources reviewed through **2026-10-10**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -2742,6 +2742,42 @@ Keep two speakers, one location, and one emotional turn. Use pauses and eye cont
 **Source:** [Hana Petal](<https://x.com/HanaPetalAI>)
 
 [Original source](<https://x.com/HanaPetalAI/status/2106533929234968898>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#one-last-thing-apocalypse-dialogue>)
+
+<a id="flash-monochrome-fashion-reference"></a>
+
+## Black-and-White Fashion Reference
+
+[![Black-and-White Fashion Reference](<https://pbs.twimg.com/amplify_video_thumb/2108614923182047232/img/Sa1A9PvGX-HYmxDW.jpg>)](<https://x.com/humzlab/status/2108619155545186324>)
+
+A monochrome fashion sequence uses a grainy reference image, reptile details and close-ups to sustain a film-camera look.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Editorial adaptation: start with your own monochrome reference image, then describe grain and black-and-white rendering alongside a short sequence of fashion close-ups.
+
+**Source:** [Humz.](<https://x.com/humzlab>)
+
+[Original source](<https://x.com/humzlab/status/2108619155545186324>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-monochrome-fashion-reference>)
+
+<a id="flash-bull-street-car-effects"></a>
+
+## Bull and Car Street Effects
+
+[![Bull and Car Street Effects](<https://pbs.twimg.com/amplify_video_thumb/2108700674930380801/img/M76FhIDjqPaj6dip.jpg>)](<https://x.com/DJpowers69/status/2108700848180355370>)
+
+A vertical street scene pairs a white bull and a red car with deliberately stylized fire effects.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Editorial adaptation: use an original street-scene image, specify the animal and vehicle interaction, and choose an intentionally stylized fire treatment.
+
+**Source:** [Jonathan DJ Powers](<https://x.com/DJpowers69>)
+
+[Original source](<https://x.com/DJpowers69/status/2108700848180355370>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-bull-street-car-effects>)
 
 ## Attribution and corrections
 
