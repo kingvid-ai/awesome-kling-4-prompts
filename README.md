@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **54 verified examples**, with sources reviewed through **2026-10-10**.
+The collection currently contains **57 verified examples**, with sources reviewed through **2026-10-12**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -2778,6 +2778,128 @@ Editorial adaptation: use an original street-scene image, specify the animal and
 **Source:** [Jonathan DJ Powers](<https://x.com/DJpowers69>)
 
 [Original source](<https://x.com/DJpowers69/status/2108700848180355370>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-bull-street-car-effects>)
+
+<a id="flash-three-emotions-continuous-portrait"></a>
+
+## Three Emotions in One Continuous Portrait Take
+
+[![Three Emotions in One Continuous Portrait Take video preview](<https://pbs.twimg.com/amplify_video_thumb/2108924703683522560/img/k-wB4qpOu3mJw61E.jpg>)](<https://x.com/azed_ai/status/2108924733588906180>)
+
+A 20-second close-up moves from happiness through crying to anger, with timed dialogue and a continuous camera push.
+
+**Model:** Kling 4.0 Flash
+
+### Author prompt · `en`
+
+```text
+Create an ultra-photorealistic cinematic portrait video featuring one woman experiencing three powerful emotions in a continuous, uninterrupted performance: genuine happiness, heartbreaking sadness with visible crying, and explosive anger. Her emotional changes must feel psychologically believable, with natural spoken dialogue, accurate lip synchronization, subtle facial microexpressions, realistic tears, and expressive vocal delivery.
+
+Environment: A minimalist portrait studio with a pure white background, soft diffused frontal lighting, delicate natural shadows, and no distracting objects.
+
+Character: A woman in her early thirties with expressive brown eyes, natural facial features, softly styled dark hair, minimal makeup, and a modest black high-neck top. Her identity, hairstyle, clothing, and facial proportions remain completely consistent.
+
+Visual Style: Ultra-photorealistic facial performance, visible skin pores, fine facial hairs, realistic muscle contractions, natural eye moisture, detailed tear formation, subtle lip trembling, authentic breathing, and physically accurate facial movement.
+
+Camera Language: One continuous intimate close-up framing her face and shoulders. The camera performs an extremely slow forward push throughout the entire sequence, gradually moving closer to emphasize the emotional intensity. No cuts, no angle changes, no sudden camera movements.
+
+Audio: Clear natural female dialogue with precise lip synchronization, emotional vocal changes, audible breathing, soft laughter, trembling speech, sobbing, and increasingly forceful angry delivery. No background music.
+
+[00:00-00:06] HAPPINESS | Genuine Joy
+
+Begin with the woman looking directly into the camera, her face relaxed and her eyes bright. A small, spontaneous smile appears at the corners of her lips, gradually spreading into a beautiful, genuine expression of happiness. Her cheeks lift, delicate smile lines develop around her eyes, and she releases a quiet, breathy laugh. Her shoulders relax as she leans almost imperceptibly toward the camera, appearing excited and emotionally overwhelmed by wonderful news.
+
+She speaks in a warm, joyful voice, smiling naturally between words:
+
+Dialogue: "I can't believe it... I'm so happy. This is everything I ever wanted!"
+
+Her eyes sparkle with excitement, and she finishes the sentence with a soft laugh. Toward the end of the moment, her smile begins to weaken as an unexpected realization crosses her face.
+
+[00:06-00:13] CRYING | Heartbreak
+
+Her happiness gradually collapses into sadness. The smile disappears, her eyebrows lift toward the center, and her eyes begin filling with tears. She tries to maintain composure, pressing her trembling lips together while taking a shaky breath. Moisture gathers along her lower eyelids before the first tear spills over and slowly travels down her cheek.
+
+Her breathing becomes uneven, her chin trembles, and she attempts to speak through the emotion. Her voice cracks naturally, interrupted by a small involuntary sob.
+
+Dialogue: "But... you promised me. You said you'd never leave me..."
+
+She struggles to finish the sentence, briefly lowering her gaze as another tear begins rolling down her opposite cheek. Her mouth trembles, her nostrils flare with a shaky inhale, and she closes her eyes momentarily as the pain becomes overwhelming. Her crying must feel authentic and restrained, with visible emotional effort rather than exaggerated theatrical sobbing.
+
+[00:13-00:20] ANGER | Emotional Explosion
+
+Her sadness gradually transforms into anger while the tears remain visible on her cheeks. She inhales sharply, raises her head, and fixes her eyes directly on the camera. Her eyebrows lower, her jaw tightens, and the trembling in her lips gradually becomes a firm, controlled expression. Her breathing changes from broken sobs into deeper, more forceful breaths.
+
+She begins speaking through clenched teeth, her voice initially low and shaking with suppressed anger.
+
+Dialogue: "You lied to me..."
+
+She pauses briefly, swallowing her emotions as her eyes narrow and her facial muscles tense. Her voice suddenly rises with genuine fury.
+
+Dialogue: "HOW COULD YOU DO THIS TO ME?!"
+
+Her eyebrows pull together sharply, her nostrils flare, and her mouth opens naturally with the force of the final words. Her voice breaks slightly because she is still crying, creating a believable mixture of heartbreak and rage. She finishes the sentence breathing heavily, her jaw clenched, tears still visible, and her eyes locked intensely on the camera.
+
+The final frame holds on her furious, tear-streaked face as she struggles to regain control.
+
+Emotional Continuity: The performance must feel like one uninterrupted emotional experience. Happiness gradually gives way to heartbreak, and heartbreak intensifies into anger. Preserve overlapping emotional cues, particularly the transition from crying into rage, where tears continue flowing even as her facial expression becomes increasingly aggressive.
+
+Facial Performance: Prioritize realistic facial anatomy, natural asymmetry, detailed eyebrow movement, subtle cheek tension, lower-lip trembling, involuntary blinking, eye moisture, visible tear accumulation, realistic tear trails, and physically accurate jaw movement during speech.
+
+Dialogue and Lip Synchronization: Every spoken word must align precisely with her mouth movements. Her voice should evolve naturally from light, joyful warmth to fragile, trembling sadness and finally intense, emotionally strained anger. Include realistic pauses, breaths, vocal cracks, and changes in volume without making the dialogue sound theatrical or artificially generated.
+
+Camera and Lighting: Maintain a single continuous close-up with a very slow push-in. Preserve identical facial proportions, hairstyle, clothing, white background, lighting direction, and skin texture throughout.
+
+Negative Guidance: No identity changes, sudden emotional switching, exaggerated facial acting, cartoon expressions, artificial tears, frozen eyes, unnatural mouth movements, inaccurate lip synchronization, inconsistent tear positions, plastic skin, beauty filters, facial morphing, camera cuts, subtitles, text, logos, background music, or additional characters.
+```
+
+### How to adapt it
+
+Editorial adaptation: keep one performer, one background and one slow camera push. Divide the duration into emotional beats, specifying dialogue and the facial cues that carry across each transition.
+
+**Source:** [Amira Zairi](<https://x.com/azed_ai>)
+
+[Original source](<https://x.com/azed_ai/status/2108924733588906180>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-three-emotions-continuous-portrait>)
+
+<a id="flash-1989-game-boy-commercial"></a>
+
+## 1989-Style Game Boy Living-Room Commercial
+
+[![1989-Style Game Boy Living-Room Commercial video preview](<https://pbs.twimg.com/amplify_video_thumb/2108821348596293632/img/kqqA_DzVymTflZOK.jpg>)](<https://x.com/Dheepanratnam/status/2108821487616512262>)
+
+A short public prompt produces a 20-second retro family commercial; the source compares it with a separate Seedance result.
+
+**Model:** Kling 4.0 Flash
+
+### Author prompt · `en`
+
+```text
+The first Game Boy commercial 1989
+```
+
+### How to adapt it
+
+Editorial adaptation: use an era, product and commercial format as the central prompt cues. For original work, substitute your own product and specify the family scene, final product shot and any readable text.
+
+**Source:** [Dheepan Ratnam](<https://x.com/Dheepanratnam>)
+
+[Original source](<https://x.com/Dheepanratnam/status/2108821487616512262>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-1989-game-boy-commercial>)
+
+<a id="flash-cyborg-inspection-reference"></a>
+
+## Cyborg Inspection with a Midjourney Visual Workflow
+
+[![Cyborg Inspection with a Midjourney Visual Workflow video preview](<https://pbs.twimg.com/amplify_video_thumb/2108953239282397186/img/AM5jgZr6d3L8ZQJa.jpg>)](<https://x.com/DexploreArts/status/2108953296442737005>)
+
+A vertical cyborg inspection scene combines Midjourney and Kling 4.0 Flash, moving between face detail and a human examiner.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Editorial adaptation: prepare a clear cyborg design reference with readable face and mechanical details, then describe the examiner interaction and shot progression. Keep the design consistent between close-ups.
+
+**Source:** [Dexplore AI](<https://x.com/DexploreArts>)
+
+[Original source](<https://x.com/DexploreArts/status/2108953296442737005>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-cyborg-inspection-reference>)
 
 ## Attribution and corrections
 
