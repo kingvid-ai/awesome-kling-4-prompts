@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **57 verified examples**, with sources reviewed through **2026-10-12**.
+The collection currently contains **61 verified examples**, with sources reviewed through **2026-10-13**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -2900,6 +2900,90 @@ Editorial adaptation: prepare a clear cyborg design reference with readable face
 **Source:** [Dexplore AI](<https://x.com/DexploreArts>)
 
 [Original source](<https://x.com/DexploreArts/status/2108953296442737005>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-cyborg-inspection-reference>)
+
+<a id="five-city-sneaker-commercial"></a>
+
+## One Pair, Five Cities: Sneaker Fashion Commercial
+
+[![One Pair, Five Cities: Sneaker Fashion Commercial video preview](<https://pbs.twimg.com/amplify_video_thumb/2109613959385112577/img/zMvRjLzsok_omesj.jpg>)](<https://x.com/HanaPetalAI/status/2109614136741204262>)
+
+A 20-second Kling 4.0 sneaker commercial moves through five cities and outfits while keeping one pair of shoes as the visual anchor.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Editorial adaptation: anchor every city and outfit change to the same product. Specify a short visual beat per location, matching shoe details, and a consistent music and narration direction.
+
+**Source:** [Hana Petal](<https://x.com/HanaPetalAI>)
+
+[Original source](<https://x.com/HanaPetalAI/status/2109614136741204262>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#five-city-sneaker-commercial>)
+
+<a id="flash-car-selection-garage-desert"></a>
+
+## POV Car Selection from Folding Garage to Desert
+
+[![POV Car Selection from Folding Garage to Desert video preview](<https://pbs.twimg.com/amplify_video_thumb/2109549906105184256/img/GGbsuiCREAsEsOd5.jpg>)](<https://x.com/AiwithBloodline/status/2109550137601331267>)
+
+A 10-second vertical car commercial uses hand-swipe selection, a folding garage-to-desert transition and fast tracking around a red Mustang.
+
+**Model:** Kling 4.0 Flash
+
+### Author prompt · `en`
+
+```text
+Create a continuous 10-second vertical 9:16 ultra-photorealistic CGI automotive commercial. 0–3s: Static first-person POV inside a pure white minimalist garage. Two male hands in black gloves appear. A metallic green widebody Porsche 911 stands at a front 3/4 angle. The right hand swipes left, sending the Porsche sliding off-screen. A bright orange Mercedes-AMG GT with black aerodynamic details rapidly enters from the right, overshoots, bounces back and stops. The left hand swipes left, removing the Mercedes. A glossy red 1969 Ford Mustang Fastback with black hood stripes, black sports wheels, wide tires and aggressive lowered suspension slides in from the right and locks into the same position. The right index finger points at the Mustang to select it. 3–5s: The camera pushes closer as the white garage physically transforms: floor panels fold outward, revealing golden sand; massive walls unfold like origami, exposing endless desert dunes; ceiling panels retract, revealing a clear blue sky. Bright sunlight illuminates the stationary Mustang. Camera performs a fast cinematic 180° orbit. 5–7s: Extreme close-up of the Mustang's front grille. Headlights illuminate, the powerful V8 engine starts with a deep roar, and the body vibrates. Camera rapidly tracks along the hood toward the exhaust and rear wheel. The rear tire spins violently, throwing sand backward. Suspension compresses as engine RPM rises. 7–10s: The Mustang launches explosively straight toward the camera, spraying sand behind it. Low frontal camera retreats rapidly, then dodges sideways as the car blasts past. Camera whips around into a fast 180° tracking orbit, revealing the side profile, rear lights and massive dust trail. Finally, the camera overtakes the speeding Mustang and captures a dramatic low front 3/4 hero shot against golden dunes and blue sky. Powerful V8 roar, hard brake, instant cut. Realistic physics, aggressive speed ramps, seamless transitions, cinematic motion blur, mechanical folding sounds, swipe whooshes, tire screeches and authentic engine audio. Preserve exact car identities, classic 1969 Mustang proportions, consistent colors and spatial continuity. No morphing, teleportation, extra objects or text.
+```
+
+### How to adapt it
+
+Editorial adaptation: divide the sequence into selection, environment transformation, ignition and driving beats. Use an original vehicle design and connect each transition to a visible hand gesture or mechanical action.
+
+**Source:** [Dr Bloodline | AI](<https://x.com/AiwithBloodline>)
+
+[Original source](<https://x.com/AiwithBloodline/status/2109550137601331267>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-car-selection-garage-desert>)
+
+<a id="flash-aurora-alien-ruins-expedition"></a>
+
+## Frozen Expedition toward Alien Ruins under Auroras
+
+[![Frozen Expedition toward Alien Ruins under Auroras video preview](<https://pbs.twimg.com/amplify_video_thumb/2109580661182828544/img/HoP_JCuGp3n9AvlZ.jpg>)](<https://x.com/Alin_Reaper05/status/2109581272578195961>)
+
+An expedition crosses a snowy plain toward black alien towers, with cyan energy seams and an orange scanner beneath green and violet auroras.
+
+**Model:** Kling 4.0 Flash
+
+### Author prompt · `en`
+
+```text
+A small expedition team crosses a frozen plain toward colossal alien ruins beneath flowing green and violet auroras. Black geometric towers rise from the snow, their surfaces interrupted by narrow cyan energy seams. The closest explorer carries a compact scanning device projecting a soft orange glow onto armored gloves. Windblown snow partially obscures the distant structures, emphasizing their immense scale. Mass Effect-inspired ancient civilization mystery, grounded military equipment, cinematic wide shot, deep blue night palette, realistic snow and metal textures
+```
+
+### How to adapt it
+
+Editorial adaptation: establish scale with small explorers and monumental structures. Contrast cold environment light with a warm handheld prop, then specify a gradual approach that preserves the team and architecture.
+
+**Source:** [Alin](<https://x.com/Alin_Reaper05>)
+
+[Original source](<https://x.com/Alin_Reaper05/status/2109581272578195961>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-aurora-alien-ruins-expedition>)
+
+<a id="flash-favela-last-night-short-film"></a>
+
+## Favela: The Last Night, a Dialogue-Driven Short Film
+
+[![Favela: The Last Night, a Dialogue-Driven Short Film video preview](<https://pbs.twimg.com/amplify_video_thumb/2109713507344125952/img/amtGB0oiWc1U_vIo.jpg>)](<https://x.com/WolfRiccardo/status/2109714679782109578>)
+
+A 76-second published short follows a tense decision in a 1990s Brazilian favela, combining close-up acting, dialogue and English subtitles.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Editorial adaptation: write the decision that drives the scene, then plan dialogue close-ups and quiet movement between locations. Preserve costume and character details across shots; check generated subtitles against the intended dialogue.
+
+**Source:** [Riccardo Wolf](<https://x.com/WolfRiccardo>)
+
+[Original source](<https://x.com/WolfRiccardo/status/2109714679782109578>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-favela-last-night-short-film>)
 
 ## Attribution and corrections
 
