@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **61 verified examples**, with sources reviewed through **2026-10-13**.
+The collection currently contains **64 verified examples**, with sources reviewed through **2026-10-14**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -2984,6 +2984,213 @@ Editorial adaptation: write the decision that drives the scene, then plan dialog
 **Source:** [Riccardo Wolf](<https://x.com/WolfRiccardo>)
 
 [Original source](<https://x.com/WolfRiccardo/status/2109714679782109578>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-favela-last-night-short-film>)
+
+<a id="paris-runway-dress-and-model-references"></a>
+
+## Paris Runway with Separate Dress and Model References
+
+[![Paris Runway with Separate Dress and Model References video preview](<https://pbs.twimg.com/amplify_video_thumb/2109983164592693248/img/scUd1ucaLQI7GhnL.jpg>)](<https://x.com/Diplomeme/status/2109983638242947120>)
+
+A 20-second Flash runway example pairs a public two-reference prompt with walking, garment movement, changing angles, and a final turn.
+
+**Model:** Kling 4.0 Flash
+
+### Prompt (author reply) · `en`
+
+```text
+FORMAT
+20 seconds | 16:9 | live-action fashion runway footage
+Real outdoor fashion event in Paris.
+Raw professional camera footage, observational realism.
+No commercial-style fantasy treatment.
+
+REFERENCE CONTROL
+@Image1 = exact dress reference.
+@Image2 = exact model reference.
+
+The model wears the exact burgundy leather-look mini dress shown in @Image1.
+
+Preserve the dress construction precisely:
+deep burgundy glossy faux-leather material,
+thin adjustable shoulder straps,
+structured fitted bodice with a sharp V-shaped neckline,
+visible central and curved panel seams,
+fitted waist with a pointed lower bodice,
+short flared skirt with multiple overlapping tiered ruffles,
+matching burgundy material throughout,
+realistic glossy highlights and natural creasing.
+
+Do not lengthen the dress, remove the ruffles, alter the neckline, add sleeves, or redesign the garment. The dress must remain a short mini dress, not a gown.
+
+Use @Image2 as the exact model identity reference. Preserve her facial features, long straight light-brown hair with a center part, natural complexion, and body proportions. Maintain consistent identity throughout every shot.
+
+The model wears the referenced dress throughout the entire sequence. Do not reproduce the red outfit from @Image2; it is a model identity reference only.
+
+SETTING
+Exclusive open-air fashion runway in Paris during late afternoon.
+
+Historic Parisian architecture, pale stone façades, French windows, elegant trees, and a seated fashion audience surrounding a long outdoor runway.
+
+Soft overcast daylight.
+Authentic Paris Fashion Week atmosphere.
+Neutral runway flooring and understated event staging.
+
+MODEL
+Adult high-fashion runway model matching @Image2.
+Long, straight light-brown hair with a center part.
+Natural makeup and understated styling.
+Serious, neutral runway expression.
+Tall, controlled professional runway walk.
+
+The dress is styled as a contemporary luxury fashion look. Keep accessories minimal so the garment remains the focal point.
+
+00–05s — RUNWAY ENTRANCE
+Long telephoto full-body shot from the photographers’ end of the runway.
+
+The model enters the runway and walks directly toward the camera with a controlled, confident stride.
+
+The glossy burgundy bodice reflects the soft daylight. The tiered mini skirt bounces and sways naturally with each step. The layered ruffles separate slightly and settle back into place.
+
+Audience members watch from both sides, with a few raising their phones. The camera operator makes a small natural reframing adjustment as the model approaches.
+
+05–10s — FRONTAL WALK
+Medium frontal tracking shot.
+
+The professional camera operator moves backward as the model continues walking toward the runway end.
+
+Keep her face, fitted bodice, waist construction, and flared skirt clearly visible.
+
+The glossy material produces realistic moving highlights rather than artificial glowing reflections. The skirt responds naturally to each footstep, with the ruffled layers moving independently and settling under gravity.
+
+The model maintains a composed expression, relaxed shoulders, and consistent runway pace.
+
+10–15s — SIDE PROFILE AND GARMENT DETAIL
+Low three-quarter side angle as the model passes close to the camera.
+
+The camera pans naturally with her movement, showing the side silhouette, thin shoulder straps, fitted waist, curved construction seams, glossy burgundy surface, and overlapping skirt tiers.
+
+The short skirt flares subtly as her hips and legs move. The ruffles flex, overlap, and return to their resting shape.
+
+A foreground spectator briefly partially obscures the lower skirt before the model becomes fully visible again.
+
+Preserve realistic fabric thickness, reflections, and natural creases. No extreme close-up that loses the overall garment construction.
+
+15–20s — RUNWAY END AND TURN
+Telephoto full-body shot at the end of the runway.
+
+The model reaches the runway end and pauses confidently. She performs one restrained professional runway turn, rotating her upper body and hips before completing the movement with a composed final pose.
+
+The short tiered skirt follows her rotation with a brief natural flare. The layered ruffles move with delayed momentum before settling under gravity.
+
+Photographers take pictures, with occasional realistic camera flashes. The operator makes a minor framing correction to keep the entire model and dress visible.
+
+End on a stable full-body view of the model holding the pose for the final moment.
+
+CAMERA
+Real fashion-week camera coverage.
+
+Professional telephoto lenses and medium tracking shots.
+Natural operator micro-movement.
+Minor reframing and realistic autofocus adjustments.
+Natural motion blur and optical depth of field.
+Believable transitions between camera operators’ viewing angles within the same continuous runway event.
+
+Four distinct shot compositions across the 20-second sequence. Each shot must preserve temporal continuity, the same model, the same dress, and the same event.
+
+No floating camera, impossible camera movements, digital zoom effects, or slow motion.
+
+LIGHTING
+Natural outdoor daylight with soft overcast illumination.
+
+Physically accurate specular reflections across the glossy burgundy material. Highlights shift naturally with the model’s movement and camera angle.
+
+Realistic skin tones, consistent exposure, and subtle environmental shadows.
+
+No artificial glow, excessive contrast, cinematic spotlighting, or exaggerated reflective effects.
+
+PHYSICS
+The dress must behave like a fitted faux-leather garment with a structured bodice and lightweight layered skirt.
+
+The bodice remains fitted and stable against the model’s torso. Panel seams retain their original positions and geometry.
+
+The ruffled tiers sway, overlap, flex, and settle naturally during walking and turning. The skirt flares modestly under rotational momentum without becoming excessively inflated.
+
+The material has realistic thickness, stiffness, surface gloss, and natural creasing. The hem remains at mini-dress length throughout.
+
+No floating fabric, liquid-like material, rubbery deformation, changing skirt length, disappearing ruffles, or melting garment geometry.
+
+AUDIO
+Authentic outdoor Paris fashion event ambience.
+
+Footsteps on the runway, subtle fabric movement, quiet audience murmurs, camera shutters, occasional photographer calls, light wind, and realistic camera flashes.
+
+No cinematic soundtrack, voice-over, exaggerated sound effects, or artificial audio transitions.
+
+VISUAL CHARACTER
+Photorealistic raw fashion-week footage.
+
+Natural skin and hair texture.
+Accurate burgundy material and glossy reflections.
+Realistic exposure, color reproduction, and depth of field.
+Subtle sensor noise and minor professional camera imperfections.
+
+No CGI aesthetic, excessive HDR, beauty-filter skin, artificial sharpening, fantasy treatment, or commercial-style visual effects.
+
+CONTINUITY
+Same model identity from @Image2 throughout the video.
+
+Exact burgundy mini dress from @Image1 in every shot. Preserve the thin straps, neckline, fitted bodice, panel seams, pointed waist construction, glossy material, mini length, and multiple overlapping ruffled tiers.
+
+Maintain the same runway, audience, weather, daylight, and styling throughout all four shots.
+
+The dress must never change color, length, construction, material, or silhouette between shots. No unintended wardrobe substitutions or identity changes.
+
+Exactly 20 seconds, 16:9 landscape, multi-shot live-action fashion runway footage. Professional observational realism, physically accurate garment movement, and authentic outdoor couture-event atmosphere.
+```
+
+### How to adapt it
+
+Replace @Image1 with your garment reference and @Image2 with the adult model identity reference. Keep those roles separate, then specify shot timing, construction details, and movement. Check the output against the intended silhouette: this source asks for a mini dress, but the published result shows a long gown.
+
+**Source:** [ᴍᴜʀᴘʜʏ](<https://x.com/Diplomeme>)
+
+[Original source](<https://x.com/Diplomeme/status/2109983638242947120>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#paris-runway-dress-and-model-references>)
+
+<a id="cat-keyboard-omni-reference-performance"></a>
+
+## Cat Keyboard Performance with Omni Reference
+
+[![Cat Keyboard Performance with Omni Reference video preview](<https://pbs.twimg.com/amplify_video_thumb/2110004678016786432/img/ATXpba2v8TNezbkZ.jpg>)](<https://x.com/rico_mary8192hy/status/2110004911475953738>)
+
+A woman performs between two oversized cats at a keyboard in a short Kling 4.0 clip whose creator reports testing Omni Reference.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Editorial adaptation: prepare separate references for the performer, cats, and room, then assign their positions around the keyboard. Keep the performance brief and review animal scale, paw placement, and character continuity. The creator did not publish a generation prompt.
+
+**Source:** [Rico有三猫](<https://x.com/rico_mary8192hy>)
+
+[Original source](<https://x.com/rico_mary8192hy/status/2110004911475953738>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#cat-keyboard-omni-reference-performance>)
+
+<a id="quiet-morning-woman-cat-vignette"></a>
+
+## Quiet Morning Vignette with a Woman and Cat
+
+[![Quiet Morning Vignette with a Woman and Cat video preview](<https://pbs.twimg.com/amplify_video_thumb/2109647353514971136/img/kuqW3ygRNdcomrW-.jpg>)](<https://x.com/ArtArchAI/status/2109650049219416145>)
+
+A 30-second Kling 4.0 edit combines relaxed close-ups, a notebook, a white cat, tea preparation, and a brief street scene.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Editorial adaptation: build a small sequence around one person, a consistent room, and everyday actions. Alternate facial close-ups with notebook, tea, and pet details, then return to the character. Review identity and lighting across cuts; the source does not disclose its prompt or editing workflow.
+
+**Source:** [ArtArch.Ai](<https://x.com/ArtArchAI>)
+
+[Original source](<https://x.com/ArtArchAI/status/2109650049219416145>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#quiet-morning-woman-cat-vignette>)
 
 ## Attribution and corrections
 
