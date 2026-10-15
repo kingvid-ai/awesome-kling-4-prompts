@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **64 verified examples**, with sources reviewed through **2026-10-14**.
+The collection currently contains **66 verified examples**, with sources reviewed through **2026-10-15**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -3191,6 +3191,42 @@ Editorial adaptation: build a small sequence around one person, a consistent roo
 **Source:** [ArtArch.Ai](<https://x.com/ArtArchAI>)
 
 [Original source](<https://x.com/ArtArchAI/status/2109650049219416145>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#quiet-morning-woman-cat-vignette>)
+
+<a id="flash-deep-sea-giant-jellyfish"></a>
+
+## Giant Jellyfish Drift Through a Deep-Sea Canyon
+
+[![Giant Jellyfish Drift Through a Deep-Sea Canyon video preview](<https://pbs.twimg.com/amplify_video_thumb/2110568766681882624/img/SIJLAt5td-fJmEqB.jpg>)](<https://x.com/YaReYaRu30Life/status/2110568926052852089>)
+
+A 20-second Flash scene follows glowing giant jellyfish through a blue underwater canyon with drifting tentacles and layered depth.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Editorial adaptation: Establish a slow forward camera path through one underwater environment. Use foreground tentacles, distant jellyfish, and light shafts to create depth; keep subject drift gentle and consistent.
+
+**Source:** [ヤレヤル（AI動画/AI画像/AI音楽）](<https://x.com/YaReYaRu30Life>)
+
+[Original source](<https://x.com/YaReYaRu30Life/status/2110568926052852089>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-deep-sea-giant-jellyfish>)
+
+<a id="hidden-world-inside-a-tree"></a>
+
+## A Forest Explorer Finds a Hidden World Inside a Tree
+
+[![A Forest Explorer Finds a Hidden World Inside a Tree video preview](<https://pbs.twimg.com/amplify_video_thumb/2110568038911139840/img/nMl-3I7xj-Elmqxu.jpg>)](<https://x.com/ArtArchAI/status/2110568469871861798>)
+
+A 30-second fantasy short follows a red-haired explorer from a mossy forest to a glowing spiral doorway and a lantern-lit tree interior.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Editorial adaptation: Build a discovery sequence around a recurring visual clue: lantern, carved spiral, then illuminated doorway. Keep the explorer’s cloak and hair consistent while moving from forest details to the interior reveal.
+
+**Source:** [ArtArch.Ai](<https://x.com/ArtArchAI>)
+
+[Original source](<https://x.com/ArtArchAI/status/2110568469871861798>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#hidden-world-inside-a-tree>)
 
 ## Attribution and corrections
 
