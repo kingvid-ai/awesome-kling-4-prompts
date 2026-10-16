@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **66 verified examples**, with sources reviewed through **2026-10-15**.
+The collection currently contains **69 verified examples**, with sources reviewed through **2026-10-16**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -3227,6 +3227,100 @@ Editorial adaptation: Build a discovery sequence around a recurring visual clue:
 **Source:** [ArtArch.Ai](<https://x.com/ArtArchAI>)
 
 [Original source](<https://x.com/ArtArchAI/status/2110568469871861798>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#hidden-world-inside-a-tree>)
+
+<a id="retro-robot-family-update-drama"></a>
+
+## Retro Robot Family Drama in Five Timed Shots
+
+[![Retro Robot Family Drama in Five Timed Shots video preview](<https://pbs.twimg.com/amplify_video_thumb/2110852998725591040/img/M0nYHlPw0X_RVak_.jpg>)](<https://x.com/obi_ai6193/status/2110855814005342673>)
+
+A 15-second retro-futuristic family scene pairs five timed shots with reactions, robot dialogue, and a celebratory ending.
+
+**Model:** Kling 4.0
+
+### Original five-shot prompt · `ja`
+
+```text
+[Shot1, 3s ]
+水色のワンピースを着た女の子が、ロビンの隣にしゃがんで両手で優しく肩を支えている。心配そうに父親を見上げて話す。カメラはリリーの不安げな顔へゆっくりドリーイン。ロビンは静止したまま、光る目がわずかに点滅する。静かなサスペンス調のBGM。セリフ：「Daddy, something's wrong with Robin!」
+
+[Shot2, 3s ]
+黄色い花柄のワンピースを着た母親が、心配そうにロビンを見下ろしながら身を乗り出す。突然何かを思い出したように眉を上げ、考え込むように話す。カメラは母親の顔のクローズアップへゆっくりプッシュイン。背景のキッチンには暖かい照明が灯っている。不穏なストリングスが静かに流れる。セリフ：「He's been acting strange lately.」
+
+[Shot3, 3s ]
+ベージュのスーツを着た父親が突然目を大きく見開く。慌てて上半身を起こし、信じられないという表情でロビンを凝視する。カメラは父親の驚いた顔へ素早くドリーインし、タイトなクローズアップ。表情はますます緊迫していく。鋭いオーケストラの効果音が鳴り、その後一瞬の静寂が訪れる。セリフ：「Oh, no! It can't be!」
+
+[Shot4, 3s ]
+小さく光沢のあるオレンジ色のレトロロボット、ロビンが突然起動する。丸い目が明るく輝く。頭部を2回ぎこちなく機械的に動かし、非常に短い腕がわずかに震える。カメラはローアングルから光る目へゆっくりドリーイン。ロビンの元のデザイン、体の比率、アンテナ、腹部前面のパネル、極端に短い脚を完全に維持する。柔らかな電子音と陽気な完了チャイムが響く。セリフ：「Don't worry! Kling four point oh update complete!」
+
+[Shot5, 3s ]
+家族全員が突然喜びの笑い声を上げる。父親と母親が勢いよくハイタッチし、水色のワンピースを着たリリーとピンクのワンピースを着た妹も楽しそうにハイタッチする。ロビンは非常に短い機械の両腕を上げて喜び、丸い目が明るく輝く。カメラはワイドショットから緩やかにクレーンアップしながら後退。美しいレトロフューチャーなキッチンと夜の街並みを映し出す。1950年代の陽気なスウィングジャズが始まる。セリフ：「Hooray!」
+```
+
+### How to adapt it
+
+Keep the five three-second beats, but replace the family, robot, and reveal. Specify each speaker, reaction, camera move, and sound cue separately. The published clip includes Japanese subtitles; the source prompt contains English dialogue, so verify spoken language and subtitle handling in your own output.
+
+**Source:** [オビ@Rocket Filmsの中の人](<https://x.com/obi_ai6193>)
+
+[Original source](<https://x.com/obi_ai6193/status/2110855814005342673>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#retro-robot-family-update-drama>)
+
+<a id="harbor-first-person-shooter-concept"></a>
+
+## First-Person Harbor Shooter Camera Concept
+
+[![First-Person Harbor Shooter Camera Concept video preview](<https://pbs.twimg.com/amplify_video_thumb/2110904434981298176/img/QyeP4tTQ-_c-TnlU.jpg>)](<https://x.com/higgsfield_ai/status/2110905436371370009>)
+
+A first-person harbor shooter concept demonstrates fast peeks, recoil, smoke, and movement, with visible prompt-to-result differences.
+
+**Model:** Kling 4.0
+
+### Author reply prompt (result differs) · `en`
+
+```text
+15-second horizontal 16:9 1080p first-person gameplay recording of a competitive 5v5 tactical shooter in team elimination mode, captured straight from a PC screen. Modern next-gen competitive shooter graphics: bright, clean, readable daylight, crisp PBR materials, high frame rate, sharp image. Pure first-person view: the player's hands in purple tactical gloves hold an original assault rifle with a flashy custom skin of hot-pink and teal graffiti patterns, positioned in the lower right of the frame. Clean screen with the HUD turned off: the only on-screen element is a small green crosshair in the center. There is no minimap, no kill feed, no health, ammo or money counters, no timer and no banners. Snappy competitive movement with quick peeks, crouching, strafing and precise flicks. The whole video is one continuous round with no cinematic cuts.
+
+Setting: a sunny Asian harbor market district at midday, an original competitive map. There are narrow alleys between stacked, faded red, blue and yellow shipping containers, sun-bleached concrete, stalls with colorful canvas tarps and hanging paper lanterns, food carts, wooden crates and fish barrels, metal stairs and catwalks, corrugated metal walls, an open harbor basin of deep blue-green water with moored wooden fishing boats and floating pontoons, cranes on the docks in the background, and colorful painted shop signs made of abstract shapes, not letters. Bright high sun, clear blue sky with a few clouds, hard crisp shadows, seagulls in the distance and sunlight glittering on the water.
+
+[00:00–00:02] The player strafes out from behind a shipping container, flicks onto an enemy soldier at the alley entrance and drops him with a short burst. The enemy ragdolls onto the concrete.
+[00:02–00:04] He sprints along the containers, wide-swings around a stack of crates and drops an enemy hiding behind them with a quick two-shot tap.
+[00:04–00:06] He jiggle-peeks the corner of a market stall and lands a clean headshot on an enemy on the catwalk.
+[00:06–00:08] He hops down from the pier onto a floating wooden pontoon at the edge of the harbor basin and casually reloads with a fast magazine swap while moving along the planks.
+[00:08–00:10] He advances along the pontoons between moored wooden fishing boats and taps an enemy standing on a boat deck. The body ragdolls off the deck and drops into the water with a splash.
+[00:10–00:11] He throws a smoke grenade ahead onto the dock. It bounces across the wooden planks, then pops, and thick grey smoke spreads over the pier in the sunlight.
+[00:11–00:13] Two enemies push out of the smoke along the dock. He sprays and taps them down; bullet impacts kick up wood splinters from the planks and small splashes in the water. Both enemies ragdoll onto the dock.
+[00:13–00:15] The round is won. Standing alone on the pontoon in the middle of the harbor, he glances down at the sunlit water lapping against the boards, then looks back up and inspects his rifle with a stylish flip animation.
+
+Style: authentic competitive esports gameplay footage that looks like a real ranked match caught on stream, with confident, clean play. Readable action, stable first-person camera with natural view bob and recoil, sharp, high detail, bright saturated daylight colors. No real-world text, no words, no brand logos, no watermark, no IP characters or maps.
+
+Audio: competitive shooter sound design, with punchy rifle bursts with echo off the containers, shell casings clinking on concrete and wood, footsteps on concrete and hollow wooden planks, bullet impacts on wood and metal with small water splashes, a smoke grenade hiss, a crisp magazine reload, seagulls, lapping water against the boats, distant harbor horns and a short round-win sting at the end. No dialogue.
+```
+
+### How to adapt it
+
+Use the author's timed beats to organize first-person peeks, movement, recoil, and environmental sound. Simplify the action count and define walkable surfaces. The posted clip is about 14 seconds despite the main post's 30-second claim, and it shows HUD elements and branding despite the reply prompt excluding them; treat it as a camera concept with adherence limits.
+
+**Source:** [Higgsfield AI 🧩](<https://x.com/higgsfield_ai>)
+
+[Original source](<https://x.com/higgsfield_ai/status/2110905436371370009>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#harbor-first-person-shooter-concept>)
+
+<a id="flash-anime-lakeside-magic-duel"></a>
+
+## Anime Lakeside Magic Duel at Dusk
+
+[![Anime Lakeside Magic Duel at Dusk video preview](<https://pbs.twimg.com/amplify_video_thumb/2110023438761070592/img/LyKpe225NtnlP3jR.jpg>)](<https://x.com/Genzoh1/status/2110160405528285688>)
+
+A Flash anime sequence follows a lakeside walk into a confrontation with a hooded figure and exchanges of magical attacks.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Editorial adaptation: establish the lakeside layout, character silhouettes, and direction of travel before escalating to the duel. Plan clear attack and reaction beats and preserve the dusk palette across shots. The author has not shared a generation prompt or production breakdown; this is a finished-sequence reference.
+
+**Source:** [Genzoh](<https://x.com/Genzoh1>)
+
+[Original source](<https://x.com/Genzoh1/status/2110160405528285688>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-anime-lakeside-magic-duel>)
 
 ## Attribution and corrections
 
