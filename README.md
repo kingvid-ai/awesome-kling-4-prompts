@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **69 verified examples**, with sources reviewed through **2026-10-16**.
+The collection currently contains **72 verified examples**, with sources reviewed through **2026-10-17**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -3321,6 +3321,66 @@ Editorial adaptation: establish the lakeside layout, character silhouettes, and 
 **Source:** [Genzoh](<https://x.com/Genzoh1>)
 
 [Original source](<https://x.com/Genzoh1/status/2110160405528285688>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-anime-lakeside-magic-duel>)
+
+<a id="kling-4-nighttime-cat-handheld-chase"></a>
+
+## Nighttime Cat Chase in One Continuous Handheld Shot
+
+[![Nighttime Cat Chase in One Continuous Handheld Shot](<https://pbs.twimg.com/amplify_video_thumb/2110797232949891072/img/3VgG5z57oETKHaAQ.jpg>)](<https://x.com/umesh_ai/status/2110797373584887907>)
+
+A fast handheld chase follows a mischievous cat through a sleeping home, garden, rooftops, and street in a 20-second clip.
+
+**Model:** Kling 4.0
+
+### Author reply prompt · `en`
+
+```text
+An amateur handheld recording in third-person perspective rapidly follows a cat through its nighttime adventures in one continuous shot, with no cuts, no stopping, and no pause. The sequence feels like fast-forward, showing all the curious, mischievous, funny, and chaotic things a cat might do while the town, house, garden, and everything around it are half-asleep.The cat races through about ten places a cat would naturally explore at night, each one flowing into the next in a single continuous chase: a quiet bedroom, a dim hallway, a kitchen, a living room, a backyard garden, a fence line, a garage, a rooftop, a tree, and a sleepy street or alley. The camera is shaky and imperfect, always struggling to keep up as it follows close behind. In every location, the cat causes some kind of chaos. In the bedroom it jumps onto furniture and disturbs sleeping people. In the hallway it sends small objects tumbling. In the kitchen it knocks items off the counter. In the living room it darts across shelves and tips things over. In the garden it rustles plants, digs, or startles birds. On the fence it rattles loose objects. In the garage it weaves through clutter and causes things to wobble or fall. On the rooftop it skids across surfaces and startles other animals. In the tree it shakes branches and scatters leaves. In the street or alley it darts through trash, shadows, and unexpected little messes, always leaving brief chaos behind before sprinting onward.The cat behaves like a restless, curious nighttime troublemaker: climbing, leaping, squeezing through gaps, chasing tiny movements, staring at strange things, swatting objects, knocking things over, and vanishing into corners before bursting back out again. Every scene should contain a clear action, reaction, or small disaster caused by the cat.Everything around it feels sleepy and still, with dark houses, quiet gardens, dim windows, silent rooftops, and empty streets. The contrast is that the cat is pure energy, moving so quickly that the world smears into motion blur and fragmented glimpses of chaos. The overall feeling is funny, lively, mischievous, and cinematic, like a whole secret night of cat behavior compressed into one rapid continuous chase.
+```
+
+### How to adapt it
+
+Keep one identifiable subject and a close following camera. Give each location a concrete action and an exit into the next space. Shorten the route if geography or continuity becomes unclear; this example is not proof that every requested location and action was followed exactly.
+
+**Source:** [Umesh](<https://x.com/umesh_ai>)
+
+[Original source](<https://x.com/umesh_ai/status/2110797373584887907>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#kling-4-nighttime-cat-handheld-chase>)
+
+<a id="ten-keyframe-anime-rooftop-duel"></a>
+
+## Ten-Keyframe Anime Duel on a Stone Rooftop
+
+[![Ten-Keyframe Anime Duel on a Stone Rooftop](<https://pbs.twimg.com/amplify_video_thumb/2110832745153019904/img/ZK2XxzSgTSSK-WaG.jpg>)](<https://x.com/AIWarper/status/2110833050955526292>)
+
+Two armored fighters exchange aerial attacks and colored energy strikes in a ten-second Kling 4.0 keyframe test.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Editorial adaptation: plan keyframes around the opening standoff, attack, counterattack, and landing. Keep costumes, energy colors, and the arena consistent. The author reports ten keyframes but does not publish the inputs or prompt.
+
+**Source:** [A.I.Warper](<https://x.com/AIWarper>)
+
+[Original source](<https://x.com/AIWarper/status/2110833050955526292>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#ten-keyframe-anime-rooftop-duel>)
+
+<a id="flash-nighttime-station-walk-dialogue"></a>
+
+## Flash Nighttime Station Walk with Two-Character Dialogue
+
+[![Flash Nighttime Station Walk with Two-Character Dialogue](<https://pbs.twimg.com/amplify_video_thumb/2110029782260097024/img/u_JOpX5p6Uji91D1.jpg>)](<https://x.com/4n5AI/status/2110029942599934231>)
+
+A couple walks toward a station, pauses for a conversation, and continues together in a multi-shot nighttime Flash short.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Editorial adaptation: anchor a two-character scene to one route and consistent wardrobe. Alternate walking views with dialogue close-ups, then return to the route for closure. The published short does not disclose its prompt or assembly workflow.
+
+**Source:** [Shingo | AI Creative Producer](<https://x.com/4n5AI>)
+
+[Original source](<https://x.com/4n5AI/status/2110029942599934231>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-nighttime-station-walk-dialogue>)
 
 ## Attribution and corrections
 
