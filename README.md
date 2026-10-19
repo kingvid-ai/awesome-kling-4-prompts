@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **72 verified examples**, with sources reviewed through **2026-10-17**.
+The collection currently contains **75 verified examples**, with sources reviewed through **2026-10-19**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -3381,6 +3381,66 @@ Editorial adaptation: anchor a two-character scene to one route and consistent w
 **Source:** [Shingo | AI Creative Producer](<https://x.com/4n5AI>)
 
 [Original source](<https://x.com/4n5AI/status/2110029942599934231>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-nighttime-station-walk-dialogue>)
+
+<a id="canvas-previs-flying-car-camera-path"></a>
+
+## Flying Car Camera Path from Canvas Previs | Kling 4.0
+
+[![Flying Car Camera Path from Canvas Previs | Kling 4.0 video preview](<https://pbs.twimg.com/amplify_video_thumb/2111979778102509568/img/NhY_AZ0oL8Fntr92.jpg>)](<https://x.com/ponzponz15/status/2111981275267694640>)
+
+A stacked comparison shows a blockout camera path, a futuristic car result, and two visual references in a 20-second clip.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Editorial adaptation: block out the camera path before generation, moving from an overhead view to the car interior and then into the sky. Supply matching environment and interior references, and compare each camera beat against the previs. The author shares an example direction for creating the previs, not the final Kling generation prompt.
+
+**Source:** [ぽんず | AI映像](<https://x.com/ponzponz15>)
+
+[Original source](<https://x.com/ponzponz15/status/2111981275267694640>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#canvas-previs-flying-car-camera-path>)
+
+<a id="remotion-previs-skateboard-motion-reference"></a>
+
+## Skateboard Motion from Remotion Previs | Kling 4.0 AI
+
+[![Skateboard Motion from Remotion Previs | Kling 4.0 AI video preview](<https://pbs.twimg.com/amplify_video_thumb/2111633478328750080/img/FdxugjLKSaXWQw8q.jpg>)](<https://x.com/Naonekozamurai/status/2111645944651633120>)
+
+A split-screen skateboarding test compares a Remotion blockout with a colorful animated character following its motion.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Editorial adaptation: build a simple motion previs with clear turns, crouches, and jumps, then use it as a video reference for the finished character and setting. Compare action timing and body proportions before accepting the result. The quoted older post describes a Seedance workflow; it does not disclose the prompt used for this Kling test.
+
+**Source:** [なお｜AI動画・AI音楽](<https://x.com/Naonekozamurai>)
+
+[Original source](<https://x.com/Naonekozamurai/status/2111645944651633120>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#remotion-previs-skateboard-motion-reference>)
+
+<a id="flash-four-panel-comic-style"></a>
+
+## Four-Panel Gag Comic Animation with Kling 4.0 Flash
+
+[![Four-Panel Gag Comic Animation with Kling 4.0 Flash video preview](<https://pbs.twimg.com/amplify_video_thumb/2106042835472629761/img/REHDrOrXCCQ2NCt-.jpg>)](<https://x.com/nova_bugapuga/status/2106042871950536928>)
+
+A sparse comic-style gag uses bold panel borders, exaggerated expressions, and a banana-peel mishap in a 20-second clip.
+
+**Model:** Kling 4.0 Flash
+
+### Published style fragment · `en`
+
+```text
+4-koma comic look, thick simple outlines, white background, gag-comic expressions. Animated on fours, each panel is a stiff mini-cut with a visible panel border.
+```
+
+### How to adapt it
+
+Editorial adaptation: keep the published style fragment separate from your own gag description. Plan a short setup, accident, and reaction with simple backgrounds and readable panel borders. The source specifies animation on fours, but this is a stylistic direction rather than a verified frame cadence.
+
+**Source:** [Buga Puga](<https://x.com/nova_bugapuga>)
+
+[Original source](<https://x.com/nova_bugapuga/status/2106042871950536928>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-four-panel-comic-style>)
 
 ## Attribution and corrections
 
