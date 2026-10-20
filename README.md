@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **75 verified examples**, with sources reviewed through **2026-10-19**.
+The collection currently contains **78 verified examples**, with sources reviewed through **2026-10-20**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -3441,6 +3441,66 @@ Editorial adaptation: keep the published style fragment separate from your own g
 **Source:** [Buga Puga](<https://x.com/nova_bugapuga>)
 
 [Original source](<https://x.com/nova_bugapuga/status/2106042871950536928>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-four-panel-comic-style>)
+
+<a id="flash-orchard-keeper-serpent-defense"></a>
+
+## Orchard Keeper and Serpent Defend a Cave
+
+[![Orchard Keeper and Serpent Defend a Cave video preview](<https://pbs.twimg.com/amplify_video_thumb/2106355537579274240/img/3Gf-RdrS7-g0Sh_b.jpg>)](<https://x.com/Alin_Reaper05/status/2106355884398141901>)
+
+A hooded orchard keeper and a winged serpent defend apples at a misty cave entrance in a dark fantasy action sequence.
+
+**Model:** Kling 4.0 Flash
+
+### Author prompt · `en`
+
+```text
+Create Eneko Ur, an original orchard keeper bound by an ancestral pact to a cuélebre, in The Witcher 3-inspired cinematic dark fantasy style. A wiry man with an iron-gray beard, apple-green eyes, a rust-colored hooded coat, scale-shaped copper plates sewn across one shoulder, and a pruning spear carved from an ancient fruit tree. One arm is slowly turning into overlapping serpent scales. Show him defending a cavern entrance from mercenaries while a wounded winged serpent coils protectively around baskets of winter apples. Misty limestone hills, mossy stone, rich green-and-copper palette, grounded weapons, expressive monstrous anatomy, family obligation colliding with a desperate village’s hunger.
+```
+
+### How to adapt it
+
+Editor adaptation: Define the defender, creature, protected object, and location before the action. Keep the weapon and scaled arm consistent across wide shots and close-ups. Replace the franchise style reference with your own visual direction.
+
+**Source:** [Alin](<https://x.com/Alin_Reaper05>)
+
+[Original source](<https://x.com/Alin_Reaper05/status/2106355884398141901>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-orchard-keeper-serpent-defense>)
+
+<a id="omni-reference-five-creatures-bad-weather"></a>
+
+## Five Reference Characters Share One Red Umbrella
+
+[![Five Reference Characters Share One Red Umbrella video preview](<https://pbs.twimg.com/amplify_video_thumb/2112206846912335872/img/ETPDvEzic681Jxda.jpg>)](<https://x.com/baskojpeg/status/2112206938146849188>)
+
+Five surreal characters flee a storm and gather beneath a red umbrella in a 30-second Omni Reference short.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Editor adaptation: Prepare a distinct character sheet for each cast member and references for both environments. Plan how the group moves together and use the umbrella as a recurring prop between shots.
+
+**Source:** [bsch](<https://x.com/baskojpeg>)
+
+[Original source](<https://x.com/baskojpeg/status/2112206938146849188>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#omni-reference-five-creatures-bad-weather>)
+
+<a id="five-keyframe-world-napping-championship"></a>
+
+## Five-Keyframe World Napping Championship
+
+[![Five-Keyframe World Napping Championship video preview](<https://pbs.twimg.com/amplify_video_thumb/2112339455579131904/img/W1rOILW4scPSIDEY.jpg>)](<https://x.com/ahmetmertugrul/status/2112347636527419762>)
+
+A fictional sleeping competition follows an elderly contestant from his entrance to a confetti-filled victory in a vertical arena film.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Editor adaptation: Plan five keyframes around an entrance, sitting down, falling asleep, a record announcement, and the award. Reuse the same contestant, costume, chair, and arena throughout.
+
+**Source:** [Ahmet Muhammed Ertuğrul](<https://x.com/ahmetmertugrul>)
+
+[Original source](<https://x.com/ahmetmertugrul/status/2112347636527419762>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#five-keyframe-world-napping-championship>)
 
 ## Attribution and corrections
 
