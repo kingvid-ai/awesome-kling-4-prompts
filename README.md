@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **78 verified examples**, with sources reviewed through **2026-10-20**.
+The collection currently contains **81 verified examples**, with sources reviewed through **2026-10-21**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -3501,6 +3501,80 @@ Editor adaptation: Plan five keyframes around an entrance, sitting down, falling
 **Source:** [Ahmet Muhammed Ertuğrul](<https://x.com/ahmetmertugrul>)
 
 [Original source](<https://x.com/ahmetmertugrul/status/2112347636527419762>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#five-keyframe-world-napping-championship>)
+
+<a id="impact-linked-corridor-stairwell-fight"></a>
+
+## Impact-Linked Fight Across Three Spaces | Kling 4.0
+
+[![Two women in grey and navy sweatshirts facing each other in an apartment corridor](<https://pbs.twimg.com/amplify_video_thumb/2112737360068894720/img/srjdDeS3CfajmTfe.jpg>)](<https://x.com/boke_ai/status/2112740231497859258>)
+
+Two fighters move from an apartment corridor through an entrance hall to an outdoor stairwell in a 15-second action sequence.
+
+**Model:** Kling 4.0
+
+### Original fight prompt · `en`
+
+```text
+SCENE: three places in one continuous bare-handed fight, each change of place triggered by a body crashing through something: an apartment corridor, then the cramped entrance hall of an apartment full of scattered shoes, then a concrete outdoor stairwell high above the street.
+CAST: two women, one in a plain grey sweatshirt, the other in a plain navy sweatshirt.
+CAMERA:
+- Corridor (0-4s): over the grey fighter's shoulder as the navy fighter rushes her with a flurry of punches, fluorescent white light, apartment doors flashing past.
+- The grey fighter's back slams through a half-open apartment door; the camera whip-pans with the impact, the motion blur carrying us into the entrance hall.
+- Entrance hall (4-8s): three fast angle changes, one from floor level among the shoes, as they wrestle; the door chain swinging; a shoe spinning through the air past the lens. Warm yellow bulb light.
+- A focus pull from the swinging door chain in the foreground to the navy fighter's face as she catches her breath for half a second.
+- The camera pushes straight through a hanging coat on the coat hook as both women tumble through a second door onto the outdoor stairwell.
+- Stairwell (10-15s): grey daylight, wind, the street far below; the camera drops from above as they fight down the stairs, then a crash zoom on the final throw.
+MOTION RULES:
+- Every place change happens exactly on an impact; the world gets bigger with each one: a door, then a wall of shoes and coats, then open sky.
+- In the corridor the rush runs at five strikes per second; in the entrance hall it becomes grappling and elbows in the tight space; on the stairwell it becomes leaps from landing to landing.
+- The navy fighter leaps down a whole flight of stairs feet-first; the grey fighter sidesteps, pivots 180 degrees mid-sprint and suplexes her onto the landing: the single maximum hit, one-third speed for half a second, the railing shuddering, dust blasting off the concrete.
+- The grey fighter starts laughing in the middle of the fight and her strength drains for a moment; the navy fighter gains the upper hand until the suplex turns it back.
+Impacts come in three tiers. Normal hits: a two-frame hold, a jump in brightness, a two-to-four-frame camera jolt, sleeves and hair trailing 0.1 seconds behind. Heavy hits: a three-frame dead stop, then sweat, dust or water bursts radially from the contact point, a six-frame hard shake, the struck body carried by momentum, fabric settling 0.4 seconds later. One maximum hit only: the whole frame flashes toward white, radial blur spreads from the contact point, and the surroundings break.
+```
+
+### How to adapt it
+
+Editorial adaptation: Tie each location change to a physical impact and specify the lighting, camera position, and action for each space. Test the final throw separately before adding frame-level impact and slow-motion instructions; this result is not a measurement of exact timing or physical accuracy.
+
+**Source:** [絵空事テレビ / AIカワウソ](<https://x.com/boke_ai>)
+
+[Original source](<https://x.com/boke_ai/status/2112740231497859258>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#impact-linked-corridor-stairwell-fight>)
+
+<a id="threejs-camera-studies-anime-sequence"></a>
+
+## Three.js Camera Studies to Anime Shots | Kling 4.0
+
+[![Water-level camera view beside a sunny coastal promenade in an anime sequence](<https://pbs.twimg.com/amplify_video_thumb/2112566682514497536/img/AX6uu1LgTudbmOcT.jpg>)](<https://x.com/MengTo/status/2112569902255288362>)
+
+A 25-second edited anime sequence translates 3D camera studies into five Kling shots with still references and timed text directions.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Editorial adaptation: Previsualize the camera start, landmarks and end position in a simple 3D scene, then describe that intent with timing and one still reference per shot. Generate and inspect short shots before editing them together. The author reports that the dolly zoom became a pullback, so simplify and test difficult moves independently.
+
+**Source:** [Meng To](<https://x.com/MengTo>)
+
+[Original source](<https://x.com/MengTo/status/2112569902255288362>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#threejs-camera-studies-anime-sequence>)
+
+<a id="flash-storyboard-cruise-motion-graphics"></a>
+
+## Storyboard to Cruise Motion Graphics | Kling 4.0 Flash
+
+[![A colorful cartoon family waving from the deck of a cruise ship](<https://pbs.twimg.com/amplify_video_thumb/2107115928563679232/img/hQxQVGnni1UDgozb.jpg>)](<https://x.com/Naonekozamurai/status/2107221792569888899>)
+
+A colorful cruise-themed motion-graphics spot combines a cartoon family, ship imagery, Japanese lettering and animated title cards.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Editorial adaptation: Build a compact storyboard around one family, one ship and a small set of title cards, then animate with consistent colors and short transitions. Check every generated word and the final audio before using the result in a campaign. The author describes storyboard creation followed by Kling MCP generation; no original prompt is available.
+
+**Source:** [なお｜AI動画・AI音楽](<https://x.com/Naonekozamurai>)
+
+[Original source](<https://x.com/Naonekozamurai/status/2107221792569888899>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-storyboard-cruise-motion-graphics>)
 
 ## Attribution and corrections
 
