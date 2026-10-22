@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **81 verified examples**, with sources reviewed through **2026-10-21**.
+The collection currently contains **84 verified examples**, with sources reviewed through **2026-10-22**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -3575,6 +3575,74 @@ Editorial adaptation: Build a compact storyboard around one family, one ship and
 **Source:** [なお｜AI動画・AI音楽](<https://x.com/Naonekozamurai>)
 
 [Original source](<https://x.com/Naonekozamurai/status/2107221792569888899>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#flash-storyboard-cruise-motion-graphics>)
+
+<a id="shikoba-fridge-party-forward-tracking"></a>
+
+## Fridge-to-Party Tracking Shot with a Product Finale
+
+[![Fridge-to-Party Tracking Shot with a Product Finale video preview](<https://pbs.twimg.com/amplify_video_thumb/2113002921373712384/img/Dqf2lv12oPqnxhl8.jpg>)](<https://x.com/shikoba_86/status/2113047628271198538>)
+
+A forward-tracking shot follows a drink from a fridge into a party, ending on a glowing product packshot guided by keyframes.
+
+**Model:** Kling 4.0
+
+### Published video prompt · `en`
+
+```text
+One continuous shot, no cuts. The camera starts inside the closed dark fridge, on the middle shelf. At 2 seconds the door opens, the light switches on, and the smiling young man reaches in and takes the can. Then the camera moves forward, never backward: it glides out through the open fridge door, passes over his shoulder as he turns away, and continues forward behind his back, following the can in his hand as he walks out of the quiet, dim kitchen, down a short hallway, the party music getting louder, and through a doorway into a different room: the crowded living room party with string lights. There he opens the can with a hiss, takes a sip and talks and laughs with the young woman. He sets the can down on the table; the camera pushes in to a close-up of the can as the party blurs behind it. The background darkens and glowing blue and violet light streaks sweep in with motion-design graphics, revealing "With you, frame by frame." and "KLING 4.0" around the can.
+CAMERA: one forward-moving tracking shot from inside the fridge to the table. The camera never pulls back and never stays inside the fridge after he takes the can.
+Sound: silence and fridge hum, the door opening, muffled party music growing through the hallway, full music in the living room, the can hissing open, laughter, then the music drops to a single deep bass hit as the graphic appears.
+```
+
+### How to adapt it
+
+Editorial adaptation: map one forward camera route through connected spaces, place the product at each story beat, and use keyframes to anchor the opening and final packshot. Test doorway transitions and the exact slogan separately.
+
+**Source:** [Marco "Shikoba" Riccetti](<https://x.com/@shikoba_86>)
+
+[Original source](<https://x.com/shikoba_86/status/2113047628271198538>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#shikoba-fridge-party-forward-tracking>)
+
+<a id="alin-android-talk-show-explosion"></a>
+
+## Android Talk Show with an Explosive Final Beat
+
+[![Android Talk Show with an Explosive Final Beat video preview](<https://pbs.twimg.com/amplify_video_thumb/2112832848407281664/img/0Q3vAsI2VrgQ0bcF.jpg>)](<https://x.com/Alin_Reaper05/status/2112833687502913915>)
+
+A futuristic interviewer and red-haired android trade close-ups before a studio-wide view and a sudden smoke-filled explosion.
+
+**Model:** Kling 4.0
+
+### Published video prompt · `en`
+
+```text
+A cinematic futuristic talk show filmed inside a polished science-fiction broadcast studio. A serious male interviewer dressed entirely in black speaks calmly while sitting in a modern chair. Opposite him sits a beautiful red-haired female android with intricate silver-black mechanical plating and highly realistic synthetic skin. Begin with a stable waist-up shot of the man speaking naturally and gesturing with both hands. Seamless cut to a close-up of the android answering him, moving her hands naturally while her mechanical fingers articulate precisely. Background screens display abstract futuristic imagery. Transition to a wide establishing shot showing the circular stage, overhead lights, glass architecture and both guests. Cut back to their faces during the conversation. At the end, the center of the stage suddenly detonates in a powerful explosion, sparks and fragments burst outward, both characters react instantly, thick smoke rapidly consumes the entire frame. Hyperrealistic live-action aesthetic, realistic explosion physics, subtle handheld reaction during blast, professional studio cameras, dramatic but believable
+```
+
+### How to adapt it
+
+Editorial adaptation: establish two clearly described speakers, alternate medium shots and close-ups, reveal the shared stage, then place one disruptive event at the end. Specify dialogue separately if exact wording matters.
+
+**Source:** [Alin](<https://x.com/@Alin_Reaper05>)
+
+[Original source](<https://x.com/Alin_Reaper05/status/2112833687502913915>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#alin-android-talk-show-explosion>)
+
+<a id="hana-flash-orange-juice-motion-graphics"></a>
+
+## Flash Orange Juice Motion Graphics Advertisement
+
+[![Flash Orange Juice Motion Graphics Advertisement video preview](<https://pbs.twimg.com/amplify_video_thumb/2106799483354779648/img/EsajmjnQ0eBmjwCP.jpg>)](<https://x.com/Ha9n0/status/2106799525805568502>)
+
+A textured flat illustration animates oranges, pouring juice, a bottle reveal, and a final citrus product composition.
+
+**Model:** Kling 4.0 Flash
+
+### How to adapt it
+
+Editorial adaptation: keep a small orange, green, and cream palette; build distinct beats for fruit, pouring, bottle, and final product framing. Use your own packaging reference and check label consistency across each beat.
+
+**Source:** [Hana\_هانا](<https://x.com/@Ha9n0>)
+
+[Original source](<https://x.com/Ha9n0/status/2106799525805568502>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#hana-flash-orange-juice-motion-graphics>)
 
 ## Attribution and corrections
 
