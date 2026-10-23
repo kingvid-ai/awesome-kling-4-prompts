@@ -5,7 +5,7 @@ A curated collection of Kling video examples, with original sources, result prev
 
 **[Browse the visual gallery](<https://kingvid.app/kling-4-prompt>)**
 
-The collection currently contains **84 verified examples**, with sources reviewed through **2026-10-22**.
+The collection currently contains **88 verified examples**, with sources reviewed through **2026-10-23**.
 
 <a id="long-form-dragon-attack"></a>
 
@@ -3643,6 +3643,134 @@ Editorial adaptation: keep a small orange, green, and cream palette; build disti
 **Source:** [Hana\_هانا](<https://x.com/@Ha9n0>)
 
 [Original source](<https://x.com/Ha9n0/status/2106799525805568502>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#hana-flash-orange-juice-motion-graphics>)
+
+<a id="varosity-paper-boat-gutter-to-sea"></a>
+
+## Paper Boat Tracking Shot from a Gutter to the Sea
+
+[![Paper Boat Tracking Shot from a Gutter to the Sea video preview](<https://pbs.twimg.com/ext_tw_video_thumb/2113403636399357952/pu/img/rJIzH-5vdN-rHlBn.jpg>)](<https://x.com/varosity_ai/status/2113403679961440439>)
+
+A low camera follows a paper boat through a drain and canal before rising past a bridge toward the sunset sea.
+
+**Model:** Kling 4.0
+
+### How to adapt it
+
+Editorial adaptation: plan a connected route with a clear foreground subject, narrow passage, and final reveal. Describe when the camera follows the boat and when it rises; test the tunnel-to-canal transition before extending the journey.
+
+**Source:** [Jon Kludt](<https://x.com/@varosity_ai>)
+
+[Original source](<https://x.com/varosity_ai/status/2113403679961440439>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#varosity-paper-boat-gutter-to-sea>)
+
+<a id="jtown-desert-warrior-reaper-reference-combat"></a>
+
+## Two-Character Reference Sheets for Desert Combat
+
+[![Two-Character Reference Sheets for Desert Combat video preview](<https://pbs.twimg.com/amplify_video_thumb/2112967044911996928/img/2tjTGC4MWz8cv0g2.jpg>)](<https://x.com/fromjtown/status/2112967291608666539>)
+
+A masked warrior and hooded reaper exchange strikes in a dusty desert, guided by two published character sheets and a timed prompt.
+
+**Model:** Kling 4.0
+
+### Published video prompt (author reply) · `en`
+
+```text
+HYPER-KINETIC DESERT COMBAT — 30-SECOND CINEMATIC SEQUENCE
+
+WARRIOR — FIRST REFERENCE IMAGE: Use the exact masked tribal warrior with red-and-black wrapped dreadlocks, metallic ornaments, skull-covered shoulders, muscular build, layered black armor, wrapped forearms, bone accessories, distressed red-and-black hanging garments, and rugged footwear. Preserve his exact appearance and costume throughout the sequence.
+
+DARK REAPER — SECOND REFERENCE IMAGE: Use the exact hooded supernatural reaper with flowing, tattered black robes, glowing molten-orange cracks, fiery skeletal details, and an enormous curved flaming scythe. Preserve the same silhouette, weapon design, and spectral appearance throughout the sequence.
+
+VISUAL STYLE: Hyper-kinetic desert combat spectacle, extreme high-intensity CGI action, thick volumetric cinematic haze, golden-hour dust storms, aggressive anamorphic 35mm lens, heavy motion blur, relentless handheld tracking, whip pans, deep shadows, heat distortion, ultra-realistic particle systems.
+
+0–4s — EXTREME WIDE CRASH-IN
+
+Instant violent collision. The tribal warrior explodes forward through a dense dust cloud, his tattered red garments whipping violently. The dark reaper swings its massive flaming scythe in a wide horizontal arc. The impact detonates a shockwave of sand and embers. No pause.
+
+4–8s — DYNAMIC LOW TRACKING
+
+Rapid exchange. The warrior ducks beneath the scythe, delivers a spinning elbow to the reaper’s ribs, then an upward knee. The reaper phases partially out of existence, reforms mid-strike, and counters with a spectral claw rake across the warrior’s chest. Fabric, sparks, ash, and dust explode outward.
+
+8–13s — ORBITING MEDIUM + DUTCH ANGLE
+
+Acrobatic mid-air clash. The warrior vaults off the scythe shaft, his tattered red garments fully extended, and lands a dual-fist hammer blow against the reaper’s hood. The reaper retaliates with a vertical scythe slam that cracks the ground. The warrior rolls and rises into a spinning back-kick that shreds the reaper’s robe into black ribbons.
+
+13–18s — HANDHELD CLOSE-COMBAT FRENZY
+
+Brutal ground scramble. The warrior grapples the scythe pole, headbutts the reaper’s shadowed hood, then unleashes three distinct strikes: an upward palm, a horizontal elbow, and a downward axe-kick. The reaper absorbs the attacks before unleashing a tendril-whip of living shadow that lashes the warrior’s back, drawing blood and dust.
+
+18–23s — SLOW-MOTION IMPACT MONTAGE
+
+Escalating power. The warrior catches the scythe mid-swing, twists, drives a knee into the reaper’s midsection twice, then delivers a spinning heel kick that sends the figure airborne. The reaper crashes down in an explosion of ash and sand, its robes partially dissolved. The warrior advances without mercy.
+
+23–28s — WIDE TO TIGHT PUSH-IN
+
+Finishing sequence. The warrior seizes the collapsing reaper by its remaining hood, delivers a savage rising uppercut followed by a final two-handed overhead smash. The reaper’s entire form shatters into swirling black ash and ember particles that scatter across the desert floor. The warrior stands over the dissipating cloud, breathing hard.
+
+28–30s — HARD-CUT REVERSE EXTREME CLOSE-UP
+
+The blurred tribal warrior fills the foreground, chest heaving, sweat and dust streaking his mask, mouth open in ragged breath. In sharp focus in the deep background, the dark reaper slowly reconstitutes from residual ash. Its enormous flaming scythe reforms in its hand as it rises and begins stalking forward with predatory stillness.
+
+FINAL QUALITY REQUIREMENTS
+
+Photorealistic, ultra-detailed fabric physics and particle simulation, precise character consistency, physically convincing combat, coherent anatomy and proportions, realistic weapon interactions, intense fire and shadow effects, perfect motion blur, maximum-density volumetric haze, cinematic color grading, and movie-level VFX polish.
+```
+
+### How to adapt it
+
+Editorial adaptation: use separate character sheets for each fighter, preserve costume and weapon descriptions, and assign one main action to each timed beat. Check character identity, weapon contact, and the final reversal before adding more strikes.
+
+**Source:** [JTOWN 🕷️](<https://x.com/@fromjtown>)
+
+[Original source](<https://x.com/fromjtown/status/2112967291608666539>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#jtown-desert-warrior-reaper-reference-combat>)
+
+<a id="murphy-flash-convenience-store-action-ad"></a>
+
+## Flash Convenience Store Action Ad with Product Beats
+
+[![Flash Convenience Store Action Ad with Product Beats video preview](<https://pbs.twimg.com/amplify_video_thumb/2106251307271290881/img/kcMsxHEVBzXn8HxA.jpg>)](<https://x.com/Diplomeme/status/2106253394403074307>)
+
+A quiet convenience store becomes an action scene, with a cold drink linking the interruption, confrontation, and final exit.
+
+**Model:** Kling 4.0 Flash
+
+### Published video prompt · `en`
+
+```text
+30 seconds | 16:9 | premium Red Bull action commercial / cinematic storytelling | 2024–2026 commercial grade | MULTISHOTCORE CONCEPTA quiet late-night convenience store in Seoul suddenly becomes the setting for a fast, grounded action sequence. A young female receptionist is working alone behind the counter while a young male customer is already inside the store. Two thieves suddenly burst into the store and threaten the receptionist. The customer remains calm, walks to the refrigerator, takes a cold Red Bull can, opens it and takes a drink before stepping into action. What follows is a tightly choreographed physical confrontation in which he protects the receptionist and forces the thieves to retreat. The film feels like a premium Red Bull commercial combined with contemporary Korean action cinema and high-end fashion cinematography. The story should feel photographed rather than generated, with realistic human reactions, physical weight, environmental imperfections and motivated camera movement.CHARACTERONE RECEPTIONIST — young adult woman working the late-night shift at a modern Seoul convenience store. Natural attractive appearance, realistic skin texture, contemporary Korean-inspired convenience-store uniform, natural hairstyle, minimal makeup, subtle accessories. Same face, clothing, hairstyle, proportions and accessories throughout the entire https://t.co/LDgqduGJWI CUSTOMER — young adult male with an athletic but believable physique, contemporary dark streetwear, clean sneakers, minimal accessories and natural hairstyle. Calm, observant personality. He does not initially appear to be an action hero. Same face, clothing, hairstyle, proportions and accessories throughout the entire film.TWO THIEVES — adult men wearing dark everyday clothing and simple face coverings. Aggressive and threatening but grounded and realistic. No exaggerated villain costumes.SETTINGModern Seoul convenience store at night. Bright fluorescent interior lighting mixed with cool refrigerator illumination and warm streetlights visible through the front glass. Fully stocked beverage refrigerators, narrow product aisles, checkout counter, automatic entrance doors, Korean product packaging, realistic customers and nighttime street activity outside. The store should feel like a real operating convenience store rather than a constructed movie set. Maintain the same physical layout throughout the entire film.STORY — MUSIC-DRIVEN MULTISHOT VISUALS00:00–02.5 — QUIET NIGHT50mm observational shot behind the checkout counter. The female receptionist organizes receipts and checks the register while the store remains quiet. Refrigerator compressors hum in the background. A few distant pedestrians pass outside the glass doors. The male customer walks slowly through the beverage aisle. Camera observes rather than perfectly framing him. Natural fluorescent light, realistic skin texture and subtle handheld micro-movement.02.5–05 — THE CUSTOMER85mm close-up through the refrigerator glass. The customer pauses in front of the Red Bull section. Cold condensation covers the cans. He looks at them briefly but does not take one yet. His reflection overlaps the illuminated refrigerator shelves. Cut to the receptionist looking down at the register. Everything remains calm and ordinary.05–07.5 — THE INTERRUPTION35mm handheld shot toward the entrance. The automatic doors suddenly open hard as two thieves rush inside. The receptionist immediately looks up. One thief moves toward the counter while the second blocks the entrance. Background customers react naturally and quickly move away. The camera operator reacts with a small physical movement rather than an artificial camera shake. Music abruptly changes.07.5–10 — THE RED BULL50mm close-up. The male customer remains calm. He turns toward the refrigerator, opens the glass door and takes a cold Red Bull can. Cold vapor escapes from the refrigerator. Condensation runs down the aluminum can. He opens it with a sharp natural PSHHHT and takes one controlled drink. The thieves remain visible in soft focus behind him. The receptionist looks toward him with confusion and fear. He places the can down and begins walking toward the confrontation.10–12.5 — FIRST MOVE35mm handheld tracking shot. One thief grabs the receptionist's arm. The customer immediately intervenes. He grabs the thief's wrist and pulls him away from her. The thief swings toward him. The customer ducks naturally and the punch hits the counter. The receptionist steps backward in shock. The camera remains close to the action while preserving clear spatial geography.12.5–15 — THE AISLE24mm wide shot. The second thief charges toward the customer. The customer moves backward through a narrow product aisle. The thief follows aggressively. Shelves shake from the physical movement. Several products fall naturally onto the floor. The customer sidesteps an incoming strike and the thief crashes into a display. No exaggerated martial arts or impossible movements. Every body movement has realistic weight and momentum.15–17.5 — THE RECEPTIONIST50mm close-up. The receptionist moves toward the emergency exit while looking back at the confrontation. Her breathing becomes visible in her facial expression. A product falls beside her. She quickly grabs the store phone. In the background, the customer continues struggling with the first thief. The camera briefly shifts focus from her face to the action behind her.17.5–20 — THE TURN35mm handheld medium shot. The first thief attempts to reach the receptionist again. The customer steps directly between them. Brief eye contact. He pushes the thief backward into the checkout counter. The thief loses balance and falls against the counter. The second thief realizes the situation is turning against them.20–22.5 — ESCAPE24mm wide shot toward the entrance. The second thief turns and runs through the automatic doors into the Seoul night. The first thief gets up and follows him. The doors close behind them. The camera remains inside the store. Street traffic continues outside as if nothing happened.22.5–25 — SILENCE50mm intimate shot. The store becomes quiet again. The receptionist stands behind the counter, breathing heavily. The customer looks toward her. They exchange a brief silent glance. No exaggerated dialogue. The tension slowly disappears.25–27.5 — THE CAN50mm product close-up. The customer walks back toward the refrigerator. The Red Bull can he opened earlier is still sitting where he left it. He picks it up. Cold condensation remains visible on the aluminum. He takes another small drink. The receptionist watches him from behind the counter.27.5–30 — FINAL EXIT35mm tracking shot from inside the store. The customer walks toward the automatic doors and exits into the Seoul night holding the Red Bull can. The receptionist watches through the glass. Neon reflections move across the window. Camera slowly tracks backward as he disappears into the city. Cut precisely on the final musical beat.CAMERA35mm and 50mm for narrative and action sequences, 24mm for environmental scale and physical geography, occasional 85mm compression for intimate character and product moments. Handheld and physically motivated tracking movement. Camera operator should react naturally to sudden action rather than producing artificial shake. Use shallow depth of field for close-ups and deeper focus during action so spatial relationships remain readable. Natural autofocus adjustments, realistic exposure adaptation, foreground obstruction and imperfect framing. No impossible camera movement, no floating camera, no videogame movement, no excessive orbital shots.VISUAL / COLOR SETTINGPremium Red Bull action commercial / contemporary Korean action film / high-end fashion cinematography, 2024–2026 commercial grade. Photoreal cinema, subtle filmic grain, mild halation around practical lights, realistic skin texture, controlled contrast, deep but detailed shadows, cool fluorescent interiors, saturated but believable Red Bull red accents and warm Seoul streetlights.COLOR GRADECool blue and neutral convenience-store interiors contrasted against warm nighttime Seoul street lighting. Red Bull red remains visually distinctive without becoming artificially saturated. Maintain realistic skin tones, natural blacks and believable highlight roll-off. No excessive teal-orange grading and no artificial HDR.MOTION180-degree cinematic shutter, natural motion blur on bodies, clothing and moving objects, 24fps. Physical weight and inertia must be visible in every action. Characters should accelerate, stop and change direction naturally. Clothing reacts to movement. Products fall with believable trajectories. Shelves shake realistically when struck. No superhero physics, wire-fu or impossible movement.LIGHTINGCool fluorescent ceiling lights, blue refrigerator illumination, warm streetlights outside, practical convenience-store lighting and realistic reflections across glass and polished surfaces. Lighting must originate naturally from the environment. Maintain consistent light direction and exposure within each shot. The Red Bull refrigerator provides a controlled cool-white product illumination.AUDIOPremium contemporary Red Bull action soundtrack with restrained Korean urban textures. Music begins minimal during the quiet store sequence, abruptly intensifies when the thieves enter, accelerates during the confrontation and resolves during the final exit. Keep authentic location sound underneath: refrigerator hum, automatic door chime, register sounds, footsteps, Korean street ambience, distant traffic, product impacts, shelves shaking, breathing, clothing movement and the sharp opening sound of the Red Bull can. Briefly reduce the music during the first confrontation to emphasize physical sound.REALISMNo CGI look, no plastic skin, no beauty-filter smoothing, no exaggerated facial expressions, no extra fingers, no warped anatomy, no artificial crowd synchronization, no impossible reflections, no floating objects, no exaggerated destruction, no supernatural strength, no unrealistic martial arts, no weightless movement. Realistic skin pores, hair strands, fabric texture, aluminum condensation, glass reflections, product physics, environmental sound and human reactions.BRAND CONTROLThe Red Bull can must retain accurate proportions, recognizable Red Bull visual identity and realistic aluminum material. The can appears naturally inside the refrigerated product section before becoming part of the action. Do not invent additional Red Bull logos, advertisements, storefront branding or branded products. Do not distort the logo or can geometry. No watermarks or random UI.EDITINGMusic-synchronized commercial editing without excessive effects. Cuts are motivated by movement, eye-lines, physical impacts, product actions, reflections, foreground obstruction and changes in sound. Use clean match cuts between the refrigerator, confrontation and final product moment. Build tension progressively: quiet store → sudden intrusion → product interaction → physical confrontation → silence → product payoff. Avoid generic AI transitions, artificial zooms, excessive whip transitions, glitch effects and over-edited montage pacing.CONTINUITYThe receptionist remains identical throughout all shots. The customer remains identical throughout all shots. Both thieves remain consistent. Maintain the exact convenience-store layout, refrigerator position, checkout counter, entrance and aisle geography. The Red Bull can must remain the same physical object throughout the sequence. The customer must already be inside the store before the thieves enter. The can must be physically taken from the refrigerator before the action begins. Maintain continuous nighttime lighting and environmental conditions throughout the https://t.co/llTsK0LJzq QUALITY TARGETThe final film should look like a genuine high-budget Red Bull commercial captured by an elite Korean action-film and advertising crew — not a collection of AI-generated action shots. The viewer should first become comfortable inside an ordinary late-night convenience store, then experience a sudden interruption, immediately wonder who the quiet customer is, and remain attached to the confrontation until the final product payoff. The commercial polish comes from cinematography, physical choreography, sound design, editing, product integration and believable human performance.
+```
+
+### How to adapt it
+
+Editorial adaptation: build the ad around a quiet setup, interruption, product interaction, confrontation, and payoff. Simplify the timed action for the available duration, use your own product reference, and check store geography and character continuity.
+
+**Source:** [ᴍᴜʀᴘʜʏ](<https://x.com/@Diplomeme>)
+
+[Original source](<https://x.com/Diplomeme/status/2106253394403074307>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#murphy-flash-convenience-store-action-ad>)
+
+<a id="sunra-golf-course-object-editing-demo"></a>
+
+## Golf-Course Reference and Object-Editing Demo
+
+[![Golf-Course Reference and Object-Editing Demo video preview](<https://pbs.twimg.com/amplify_video_thumb/2113430976600641536/img/5s-Gw9DIAwV0y4YT.jpg>)](<https://x.com/sunra_ai/status/2113432581278675126>)
+
+A golf-course showcase combines character references, keyframes, and a published golf-ball-to-duck-egg edit instruction.
+
+**Model:** Kling 4.0
+
+### Published object-edit instruction (one segment of the demo) · `en`
+
+```text
+change golf ball to duck egg
+```
+
+### How to adapt it
+
+Editorial adaptation: provide the source clip and name the object to replace and its replacement. Treat the quoted instruction as one local edit within this broader demo, then compare the edited object and surrounding motion against the original.
+
+**Source:** [Sunra](<https://x.com/@sunra_ai>)
+
+[Original source](<https://x.com/sunra_ai/status/2113432581278675126>) · [View in the KingVid gallery](<https://kingvid.app/kling-4-prompt#sunra-golf-course-object-editing-demo>)
 
 ## Attribution and corrections
 
